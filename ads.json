@@ -15,7 +15,8 @@
         ],
         "configs": {
             "Gasmyr.com.gasmyr.gluu.passwordAuth": {
-                "clientId": "The application client id"
+                "clientId": "The application client id",
+                "clientSecret": "Client secret used for authenticating the app"
             }
         }
     }
