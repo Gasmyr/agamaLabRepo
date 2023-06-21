@@ -12,6 +12,11 @@
         "tags": [
             "openid-connect",
             "jans"
-        ]
+        ],
+        "configs": {
+            "Gasmyr.com.gasmyr.gluu.passwordAuth": {
+                "clientId": "The application client id"
+            }
+        }
     }
 }
