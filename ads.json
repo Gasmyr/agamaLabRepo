@@ -1,1 +1,16 @@
-{}
+{
+    "MyAgamaProject": {
+        "projectName": "MyAgamaProject",
+        "description": "My Agama Project",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
+        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
+        "license": "MIT",
+        "lastUpdated": "1689761525602",
+        "tags": [
+            "jans"
+        ]
+    }
+}
