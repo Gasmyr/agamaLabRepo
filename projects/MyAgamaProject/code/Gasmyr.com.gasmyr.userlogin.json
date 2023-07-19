@@ -3,6 +3,82 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-trigger-Node-ab6a04f5-9271-4c6b-8cbc-548dc513b5c7",
+			"position": {
+				"x": 680,
+				"y": 30
+			},
+			"type": "trigger",
+			"data": {
+				"id": "Agama-trigger-Node-ab6a04f5-9271-4c6b-8cbc-548dc513b5c7",
+				"type": "Agama-trigger-Node",
+				"parentId": "Agama-call-Node-3a8fcf32-92d3-46e4-b276-2a19a9a63981",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [
+					"Agama-when-Node-2b38f1ff-bc18-4fb7-9258-bf475f3c0b68.FAILURE",
+					"Agama-when-Node-2b38f1ff-bc18-4fb7-9258-bf475f3c0b68.SUCCESS"
+				],
+				"position": {
+					"x": 680,
+					"y": 30
+				},
+				"agamaData": {
+					"id": "Agama-trigger-Node-ab6a04f5-9271-4c6b-8cbc-548dc513b5c7",
+					"type": "Agama-trigger-Node",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"parentId": "Agama-call-Node-3a8fcf32-92d3-46e4-b276-2a19a9a63981",
+					"name": "",
+					"basepath": "",
+					"comment": "Calling External Flow from current flow",
+					"notes": "",
+					"flowfilename": "",
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"variableField": "",
+					"conditionInputField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "Calling External Flow",
+					"nodeColor": "",
+					"exceptionVariableField": "",
+					"nodeIcon": "fluent-mdl2:trigger-approval",
+					"flowFileName": "Gasmyr.com.api.checkcode",
+					"asssignedVariableName": "flowResult"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 680,
+				"y": 30
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-call-Node-3a8fcf32-92d3-46e4-b276-2a19a9a63981",
 			"position": {
 				"x": 480,
@@ -66,9 +142,10 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "parseValue"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 480,
@@ -348,11 +425,28 @@
 			"id": "Agama-call-Node-3a8fcf32-92d3-46e4-b276-2a19a9a63981-undefined-c9492ce4-e857-4877-9964-12e36382e1ec",
 			"type": "straight",
 			"source": "Agama-call-Node-3a8fcf32-92d3-46e4-b276-2a19a9a63981"
+		},
+		{
+			"id": "Agama-call-Node-3a8fcf32-92d3-46e4-b276-2a19a9a63981-Agama-trigger-Node-ab6a04f5-9271-4c6b-8cbc-548dc513b5c7-8b441f99-7f60-4b6b-bd29-b3d2d3749442",
+			"type": "straight",
+			"source": "Agama-call-Node-3a8fcf32-92d3-46e4-b276-2a19a9a63981",
+			"target": "Agama-trigger-Node-ab6a04f5-9271-4c6b-8cbc-548dc513b5c7",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
 		}
 	],
 	"viewport": {
-		"x": 137.17902536616475,
-		"y": 126.640000029692,
-		"zoom": 0.7169776240079141
+		"x": 289.02834616688045,
+		"y": 99.08114736972996,
+		"zoom": 0.6070974421975236
 	}
 }
