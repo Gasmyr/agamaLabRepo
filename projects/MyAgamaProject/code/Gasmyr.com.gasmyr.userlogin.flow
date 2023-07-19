@@ -3,3 +3,4 @@ Flow Gasmyr.com.gasmyr.userlogin
 When userName is Gasmyr
      Log "@info " true
 parseValue = Call java.lang.Integer#parseInt 15
+flowResult = Trigger Gasmyr.com.api.checkcode 
