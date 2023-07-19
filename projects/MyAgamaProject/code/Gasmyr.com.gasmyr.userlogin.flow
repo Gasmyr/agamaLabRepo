@@ -1,5 +1,5 @@
 Flow Gasmyr.com.gasmyr.userlogin
      Basepath ""
 When userName is Gasmyr
-     Log "@ " __________
+     Log "@info " true
 Trigger __________ 
