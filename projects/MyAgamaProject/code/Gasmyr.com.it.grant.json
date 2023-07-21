@@ -217,7 +217,7 @@
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "MyStart",
 					"notes": "",
 					"flowfilename": "",
 					"assignments": [
@@ -243,13 +243,13 @@
 					"maxIterationVariableName": "",
 					"logLevel": "",
 					"assignCallbackResult": "",
-					"displayName": "",
+					"displayName": "BasicFlow",
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-start-square",
 					"configs": "configs"
 				},
-				"skake": false
+				"skake": true
 			},
 			"position": {
 				"x": 30,
