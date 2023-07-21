@@ -2,5 +2,8 @@ Flow Gasmyr.com.gasmyr.userlogin
      Basepath ""
 When userName is Gasmyr
      Log "@info " true
+     When __________ __________ __________
+          Call __________#__________ 
+     Trigger __________ 
 parseValue = Call java.lang.Integer#parseInt 15
 flowResult = Trigger Gasmyr.com.api.checkcode 
