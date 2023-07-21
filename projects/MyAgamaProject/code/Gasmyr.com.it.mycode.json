@@ -54,7 +54,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 974.8940953630618,
@@ -115,7 +116,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -178,9 +180,10 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 861.8940953630618,
@@ -241,7 +244,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 1293,
@@ -302,7 +306,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 1430,
@@ -363,7 +368,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -426,7 +432,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -489,7 +496,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -552,7 +560,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -615,7 +624,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -678,7 +688,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -692,8 +703,8 @@
 			"height": 122,
 			"id": "Agama-log-Node-13147717-c8ac-4944-9ff9-5036486f708a",
 			"position": {
-				"x": 343,
-				"y": 314
+				"x": 298.36820267678695,
+				"y": 491.1324456265014
 			},
 			"type": "log",
 			"data": {
@@ -703,8 +714,8 @@
 				"whenCondition": "WhenTrue",
 				"inRepeatBlock": false,
 				"position": {
-					"x": 343,
-					"y": 314
+					"x": 298.36820267678695,
+					"y": 491.1324456265014
 				},
 				"agamaData": {
 					"id": "Agama-log-Node-13147717-c8ac-4944-9ff9-5036486f708a",
@@ -741,12 +752,15 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
-				"x": 343,
-				"y": 314
-			}
+				"x": 298.36820267678695,
+				"y": 491.1324456265014
+			},
+			"selected": true,
+			"dragging": false
 		},
 		{
 			"width": 210,
@@ -802,7 +816,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": true
 			},
 			"selected": false,
 			"dragging": false,
