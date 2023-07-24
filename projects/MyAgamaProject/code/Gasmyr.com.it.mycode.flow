@@ -2,7 +2,7 @@ Flow Gasmyr.com.gasmyr.userlogin
      Basepath ""
 When userName is Gasmyr
      Log "@info " true
-     When __________ __________ __________
+     When code is not 8978
           Call __________#__________ 
      Trigger __________ 
 parseValue = Call java.lang.Integer#parseInt 15
