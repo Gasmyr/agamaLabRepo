@@ -817,7 +817,7 @@
 					"nodeColor": "",
 					"exceptionVariableField": ""
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -1124,8 +1124,8 @@
 		}
 	],
 	"viewport": {
-		"x": 172.03089944776832,
-		"y": 90.37790001102638,
-		"zoom": 0.7169776240079136
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
