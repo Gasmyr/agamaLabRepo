@@ -668,10 +668,16 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
-					"logMessage": "",
+					"logMessage": "logging",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -683,15 +689,16 @@
 					"javaMethodName": "",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
-					"logLevel": "",
+					"logLevel": "info",
 					"assignCallbackResult": "",
-					"displayName": "",
+					"displayName": "Testing",
 					"nodeColor": "",
-					"exceptionVariableField": ""
+					"exceptionVariableField": "",
+					"nodeIcon": "octicon:log-16"
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 480,
@@ -759,7 +766,7 @@
 				"x": 298.36820267678695,
 				"y": 491.1324456265014
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
