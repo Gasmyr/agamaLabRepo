@@ -347,7 +347,7 @@
 			"id": "Agama-log-Node-60d815d5-d572-4141-95ee-528ee8cd9297",
 			"position": {
 				"x": 343,
-				"y": 314
+				"y": 313
 			},
 			"type": "log",
 			"data": {
@@ -362,7 +362,7 @@
 				],
 				"position": {
 					"x": 343,
-					"y": 314
+					"y": 313
 				},
 				"agamaData": {
 					"id": "Agama-log-Node-60d815d5-d572-4141-95ee-528ee8cd9297",
@@ -411,9 +411,9 @@
 			},
 			"positionAbsolute": {
 				"x": 343,
-				"y": 314
+				"y": 313
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false
 		},
 		{
