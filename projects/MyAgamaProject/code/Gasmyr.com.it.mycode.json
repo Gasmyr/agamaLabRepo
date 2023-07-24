@@ -698,7 +698,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 480,
@@ -800,19 +800,25 @@
 					"parentId": "Agama-start-Flow-275a9d39-75b3-4b9b-8fae-d806a3587fd3",
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "Testing username",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
-					"variableField": "",
-					"conditionInputField": "",
-					"valueField": "",
+					"variableField": "userName",
+					"conditionInputField": "is",
+					"valueField": "Gasmyr",
 					"returnVariable": "",
 					"javaClassName": "",
 					"javaMethodName": "",
@@ -824,9 +830,9 @@
 					"nodeColor": "",
 					"exceptionVariableField": ""
 				},
-				"skake": false
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
