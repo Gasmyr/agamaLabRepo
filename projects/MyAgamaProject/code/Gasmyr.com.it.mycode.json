@@ -155,19 +155,25 @@
 					"parentId": "Agama-log-Node-60d815d5-d572-4141-95ee-528ee8cd9297",
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "CheckCode",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
-					"variableField": "",
-					"conditionInputField": "",
-					"valueField": "",
+					"variableField": "code",
+					"conditionInputField": "is not",
+					"valueField": "8978",
 					"returnVariable": "",
 					"javaClassName": "",
 					"javaMethodName": "",
@@ -179,9 +185,9 @@
 					"nodeColor": "",
 					"exceptionVariableField": ""
 				},
-				"skake": false
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 543,
@@ -413,7 +419,7 @@
 				"x": 343,
 				"y": 313
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
