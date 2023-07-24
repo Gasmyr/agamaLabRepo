@@ -1,15 +1,9 @@
-Flow Gasmyr.com.it.mycode
+Flow Gasmyr.com.gasmyr.userlogin
      Basepath ""
 When userName is Gasmyr
-     Log "@ " __________
-Log "@info " logging
-When __________ __________ __________
-     Log "@ " __________
+     Log "@info " true
      When __________ __________ __________
           Call __________#__________ 
-     Log "@ " __________
-When __________ __________ __________
-     Log "@ " __________
-When __________ __________ __________
-     Call __________#__________ 
-Log "@ " __________
+     Trigger __________ 
+parseValue = Call java.lang.Integer#parseInt 15
+flowResult = Trigger Gasmyr.com.api.checkcode 
