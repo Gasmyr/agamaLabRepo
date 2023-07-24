@@ -1,6 +1,6 @@
 Flow Gasmyr.com.it.mycode
      Basepath ""
-When __________ __________ __________
+When userName is Gasmyr
      Log "@ " __________
 Log "@info " logging
 When __________ __________ __________
