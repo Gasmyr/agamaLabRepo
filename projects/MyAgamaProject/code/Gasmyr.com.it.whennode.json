@@ -176,16 +176,22 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
-					"variableField": "",
-					"conditionInputField": "",
-					"valueField": "",
+					"variableField": "user",
+					"conditionInputField": "is",
+					"valueField": "gasmyr",
 					"returnVariable": "",
 					"javaClassName": "",
 					"javaMethodName": "",
@@ -199,7 +205,7 @@
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -268,7 +274,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -333,7 +339,7 @@
 	],
 	"viewport": {
 		"x": 10,
-		"y": 14,
+		"y": 15,
 		"zoom": 1
 	}
 }
