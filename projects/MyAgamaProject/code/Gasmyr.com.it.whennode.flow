@@ -1,2 +1,5 @@
-Flow Gasmyr.com.it.whennode
+Flow __________
      Basepath ""
+When __________ __________ __________
+     Log "@info " done
+Log "@info " LogTwo
