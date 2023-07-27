@@ -3,3 +3,8 @@ Flow __________
 When user is gasmyr
      Log "@info " done
 Log "@info " LogTwo
+When __________ __________ __________
+     Log "@ " __________
+When __________ __________ __________
+     RFAC __________
+RRF "__________" 
