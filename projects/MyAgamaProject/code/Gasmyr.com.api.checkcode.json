@@ -62,9 +62,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 630,
@@ -133,7 +134,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -204,7 +206,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -241,7 +244,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -261,7 +270,9 @@
 					"displayName": "CheckCode",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"flowname": "Gasmyr.com.api.checkcode"
+					"flowname": "Gasmyr.com.api.checkcode",
+					"nodeIcon": "material-symbols:line-start-square",
+					"isTopLevelFlow": true
 				},
 				"skake": false
 			},
@@ -269,7 +280,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -331,8 +342,8 @@
 		}
 	],
 	"viewport": {
-		"x": 131.17466383812246,
-		"y": 113.88884871469081,
-		"zoom": 0.7371346086455505
+		"x": 274.0568481685694,
+		"y": 162.30032361004046,
+		"zoom": 0.52850902028069
 	}
 }
