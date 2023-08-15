@@ -515,7 +515,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -535,7 +541,9 @@
 					"displayName": "UserLogin",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"flowname": "Gasmyr.com.gasmyr.userlogin"
+					"flowname": "Gasmyr.com.gasmyr.userlogin",
+					"nodeIcon": "material-symbols:line-start-square",
+					"isTopLevelFlow": true
 				},
 				"skake": false
 			},
@@ -543,7 +551,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
