@@ -1,7 +1,7 @@
 {
     "MyAgamaProject": {
         "projectName": "MyAgamaProject",
-        "description": "My Agama Project",
+        "description": "My Agama Project updated",
         "type": "community",
         "author": "Gasmyr",
         "version": "1.0.0",
@@ -11,6 +11,9 @@
         "lastUpdated": "1689761525602",
         "tags": [
             "jans"
+        ],
+        "noDirectLaunch": [
+            "checkcode"
         ]
     }
 }
