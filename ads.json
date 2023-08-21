@@ -13,7 +13,8 @@
             "jans"
         ],
         "noDirectLaunch": [
-            "keepRuning"
+            "keepRuning",
+            "checkcode"
         ]
     }
 }
