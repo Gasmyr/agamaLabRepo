@@ -12,8 +12,6 @@
         "tags": [
             "jans"
         ],
-        "noDirectLaunch": [
-            "checkcode"
-        ]
+        "noDirectLaunch": []
     }
 }
