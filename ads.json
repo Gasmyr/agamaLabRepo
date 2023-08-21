@@ -16,5 +16,21 @@
             "keepRuning",
             "checkcode"
         ]
+    },
+    "Codima": {
+        "projectName": "Codima",
+        "description": "Codima work flow",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
+        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
+        "license": "MIT",
+        "lastUpdated": "1692630885086",
+        "tags": [
+            "jans",
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
     }
 }
