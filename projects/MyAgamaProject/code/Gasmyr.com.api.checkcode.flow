@@ -2,5 +2,5 @@ Flow Gasmyr.com.api.checkcode
      Basepath ""
 Log "@info " check step 1
 Log "@info " check code last step
-it_object = { success: false, error: "Your error message here" }
-Finish it_object
+it_4hrsh9kh = { success: false, error: "Your error message here" }
+Finish it_4hrsh9kh
