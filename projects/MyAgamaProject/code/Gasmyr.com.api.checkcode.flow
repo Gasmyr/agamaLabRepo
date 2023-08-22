@@ -2,4 +2,4 @@ Flow Gasmyr.com.api.checkcode
      Basepath ""
 Log "@info " check step 1
 Log "@info " check code last step
-Finish true
+Finish { success: false, error: "Your error message here" }
