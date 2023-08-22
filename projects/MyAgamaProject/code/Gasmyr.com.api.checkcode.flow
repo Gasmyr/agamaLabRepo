@@ -2,5 +2,5 @@ Flow Gasmyr.com.api.checkcode
      Basepath ""
 Log "@info " check step 1
 Log "@info " check code last step
-it_finish-91fe0f10-767a-47ab-a04d-efb300832c5c = { success: false, error: "Your error message here" }
-Finish it_finish-91fe0f10-767a-47ab-a04d-efb300832c5c
+it_object = { success: false, error: "Your error message here" }
+Finish it_object
