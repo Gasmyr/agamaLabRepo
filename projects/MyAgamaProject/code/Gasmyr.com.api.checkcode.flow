@@ -2,5 +2,5 @@ Flow Gasmyr.com.api.checkcode
      Basepath ""
 Log "@info " check step 1
 Log "@info " check code last step
-it_hsalw = {"success":true,"data":{"userId":"as9233Qz"}}
-Finish it_hsalw
+it_gdaba = { success: true, data: { userId: "as9233Qz" } }
+Finish it_gdaba
