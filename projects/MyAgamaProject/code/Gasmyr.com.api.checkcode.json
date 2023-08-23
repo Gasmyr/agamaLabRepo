@@ -65,7 +65,7 @@
 					"finishMode": "withSuccess",
 					"hasExtraData": true
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
