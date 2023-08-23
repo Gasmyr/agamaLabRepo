@@ -6,7 +6,7 @@
 			"id": "finish-91fe0f10-767a-47ab-a04d-efb300832c5c",
 			"position": {
 				"x": 630,
-				"y": 30
+				"y": 28
 			},
 			"type": "finish",
 			"data": {
@@ -18,7 +18,7 @@
 				"handles": [],
 				"position": {
 					"x": 630,
-					"y": 30
+					"y": 28
 				},
 				"agamaData": {
 					"id": "finish-91fe0f10-767a-47ab-a04d-efb300832c5c",
@@ -51,7 +51,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "{ success: false, error: \"Your error message here\" }",
+					"returnVariable": "{\"success\":true,\"data\":{\"userId\":\"as9233Qz\"}}",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
@@ -62,7 +62,7 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded",
-					"finishMode": "withFailure",
+					"finishMode": "withSuccess",
 					"hasExtraData": true
 				},
 				"skake": false
@@ -71,7 +71,7 @@
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 630,
-				"y": 30
+				"y": 28
 			}
 		},
 		{
@@ -274,7 +274,7 @@
 					"exceptionVariableField": "",
 					"flowname": "Gasmyr.com.api.checkcode",
 					"nodeIcon": "material-symbols:line-start-square",
-					"isTopLevelFlow": false
+					"isTopLevelFlow": true
 				},
 				"skake": false
 			},
@@ -344,8 +344,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
-		"zoom": 1
+		"x": 164.96682985092218,
+		"y": 84.57762818741253,
+		"zoom": 0.8467453123625276
 	}
 }
