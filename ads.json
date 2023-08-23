@@ -14,8 +14,7 @@
         ],
         "noDirectLaunch": [
             "keepRuning",
-            "checkcode",
-            "Gasmyr.com.api.checkcode"
+            "checkcode"
         ]
     },
     "Codima": {
