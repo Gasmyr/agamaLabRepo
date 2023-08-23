@@ -51,7 +51,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "{ success: true, data: { userId: \"as9233Qz\" } }",
+					"returnVariable": "{\"success\":true,\"data\":{\"userId\":\"as9233Qz\"}}",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
@@ -65,7 +65,7 @@
 					"finishMode": "withSuccess",
 					"hasExtraData": true
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
