@@ -2,5 +2,5 @@ Flow Gasmyr.com.api.checkcode
      Basepath ""
 Log "@info " check step 1
 Log "@info " check code last step
-it_rvuvr = { success: false, error: "Your error message here" }
-Finish it_rvuvr
+it_vurfh = {"success":true,"data":{"userId":"as9233Qz"}}
+Finish it_vurfh
