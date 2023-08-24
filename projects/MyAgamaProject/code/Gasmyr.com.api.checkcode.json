@@ -67,7 +67,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 630,
@@ -274,7 +274,8 @@
 					"exceptionVariableField": "",
 					"flowname": "Gasmyr.com.api.checkcode",
 					"nodeIcon": "material-symbols:line-start-square",
-					"isTopLevelFlow": true
+					"isTopLevelFlow": true,
+					"configParams": "{\n  \"count\": 15 \n}"
 				},
 				"skake": false
 			},
@@ -282,7 +283,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
