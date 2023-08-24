@@ -17,8 +17,8 @@
             "checkcode"
         ],
         "configs": {
-            "fileName": {
-                "count": 15
+            "Gasmyr.com.api.checkcode": {
+                "count": 25
             }
         }
     },
