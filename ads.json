@@ -18,7 +18,16 @@
         ],
         "configs": {
             "Gasmyr.com.api.checkcode": {
-                "count": 25
+                "count": 15,
+                "values": [
+                    1,
+                    2,
+                    3
+                ],
+                "authflow": {
+                    "name": "otp",
+                    "code": "otp01"
+                }
             }
         }
     },
