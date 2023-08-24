@@ -275,7 +275,7 @@
 					"flowname": "Gasmyr.com.api.checkcode",
 					"nodeIcon": "material-symbols:line-start-square",
 					"isTopLevelFlow": true,
-					"configParams": "{\n  \"count\": 15 \n}"
+					"configParams": "{\n  \"count\": 15,\n  \"values\": [1,2,3],\n  \"authflow\": {\n    \"name\": \"otp\",\n    \"code\": \"otp01\"\n  }\n}"
 				},
 				"skake": false
 			},
