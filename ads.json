@@ -45,6 +45,12 @@
             "jans",
             "openid-connect"
         ],
-        "noDirectLaunch": []
+        "noDirectLaunch": [],
+        "configs": {
+            "Gasmyr.it.passwordAuth": {
+                "name": "coudia",
+                "coi": "codima"
+            }
+        }
     }
 }
