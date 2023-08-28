@@ -47,7 +47,10 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "Gasmyr.it.saving": {}
+            "Gasmyr.it.saving": {
+                "One": "Monday",
+                "Two": " tuesday"
+            }
         }
     }
 }
