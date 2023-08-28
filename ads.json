@@ -47,10 +47,7 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "Gasmyr.it.passwordAuth": {
-                "name": "coudia",
-                "coi": "codima"
-            }
+            "Gasmyr.it.saving": {}
         }
     }
 }
