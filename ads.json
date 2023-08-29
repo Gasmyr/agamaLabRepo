@@ -45,7 +45,9 @@
             "jans",
             "openid-connect"
         ],
-        "noDirectLaunch": [],
+        "noDirectLaunch": [
+            "Gasmyr.it.saving"
+        ],
         "configs": {
             "Gasmyr.it.saving": {
                 "One": "Monday",
