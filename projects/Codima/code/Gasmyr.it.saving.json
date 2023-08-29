@@ -122,7 +122,7 @@
 					"exceptionVariableField": "",
 					"configParams": "{}"
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -185,7 +185,7 @@
 					"displayName": "Saving Flow",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"configParams": "{\n  \"One\": \"Monday\",\n  \"Two\": \" tuesday\"\n}",
+					"configParams": "{\n  \"One\": \"Monday\",\n  \"Two\": \" tuesday\",\n  \"Three\": \"Wednesday\"\n}",
 					"flowname": "Gasmyr.it.saving",
 					"nodeIcon": "material-symbols:line-start-square"
 				},
