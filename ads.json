@@ -51,6 +51,10 @@
                 "One": "Monday",
                 "Two": " tuesday",
                 "Three": "Wednesday"
+            },
+            "Gasmyr.it.passwordAuth": {
+                "name": "coudia",
+                "coi": "codima"
             }
         }
     }
