@@ -33,10 +33,16 @@
 					"parentId": "Agama-log-Node-be5ea1e3-5b87-4ca3-b5f1-d0e259c372a8",
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "Finishing my flow",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -46,7 +52,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "",
+					"returnVariable": "true",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
@@ -56,14 +62,18 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"configParams": "{}"
+					"configParams": "{}",
+					"nodeIcon": "material-symbols:line-end-square-rounded",
+					"hasComment": true
 				},
 				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 430,
 				"y": 30
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"width": 170,
@@ -97,13 +107,19 @@
 					"parentId": "Agama-start-Flow-9f0fc1e1-8d16-4d6f-a724-aee5e5e22876",
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "Start running",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
-					"logMessage": "",
+					"logMessage": "running",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -115,16 +131,18 @@
 					"javaMethodName": "",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
-					"logLevel": "",
+					"logLevel": "info",
 					"assignCallbackResult": "",
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"configParams": "{}"
+					"configParams": "{}",
+					"nodeIcon": "octicon:log-16",
+					"hasComment": true
 				},
-				"skake": false
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -196,7 +214,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
