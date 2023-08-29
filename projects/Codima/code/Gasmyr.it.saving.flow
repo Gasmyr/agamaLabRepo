@@ -1,5 +1,7 @@
 // 
 Flow Gasmyr.it.saving
      Basepath ""
-Log "@ " __________
-Finish __________
+// Start running
+Log "@info " running
+// Finishing my flow
+Finish true
