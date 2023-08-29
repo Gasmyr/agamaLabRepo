@@ -152,7 +152,7 @@
 					"hasFailure": false,
 					"hasRepeat": false,
 					"hasNoRepeat": false,
-					"isTopLevelFlow": true,
+					"isTopLevelFlow": false,
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
@@ -187,7 +187,8 @@
 					"exceptionVariableField": "",
 					"configParams": "{\n  \"One\": \"Monday\",\n  \"Two\": \" tuesday\",\n  \"Three\": \"Wednesday\"\n}",
 					"flowname": "Gasmyr.it.saving",
-					"nodeIcon": "material-symbols:line-start-square"
+					"nodeIcon": "material-symbols:line-start-square",
+					"hasComment": true
 				},
 				"skake": false
 			},
