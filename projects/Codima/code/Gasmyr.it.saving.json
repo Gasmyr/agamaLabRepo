@@ -140,9 +140,9 @@
 					"nodeIcon": "octicon:log-16",
 					"hasComment": true
 				},
-				"skake": true
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -174,7 +174,7 @@
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "This is my Flow",
 					"notes": "",
 					"flowfilename": "",
 					"assignments": [
@@ -214,7 +214,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
