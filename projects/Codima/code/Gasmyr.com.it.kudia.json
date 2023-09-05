@@ -2,6 +2,31 @@
 	"nodes": [
 		{
 			"width": 170,
+			"height": 30,
+			"id": "Agama-note-9258cbd1-9dc6-4aad-ad8a-5780db321753",
+			"position": {
+				"x": 634,
+				"y": -21.799999999999955
+			},
+			"type": "notes",
+			"data": {
+				"id": "Agama-note-9258cbd1-9dc6-4aad-ad8a-5780db321753",
+				"type": "Agama-note",
+				"notes": "closing the flow",
+				"position": {
+					"x": 634,
+					"y": -21.799999999999955
+				}
+			},
+			"selected": true,
+			"positionAbsolute": {
+				"x": 634,
+				"y": -21.799999999999955
+			},
+			"dragging": false
+		},
+		{
+			"width": 170,
 			"height": 122,
 			"id": "Agama-log-Node-d2886625-e615-4dd2-9fe2-eb66ee1c5b20",
 			"position": {
@@ -65,7 +90,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -211,9 +237,10 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 429,
@@ -290,7 +317,8 @@
 					"position": {
 						"x": 729
 					}
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -358,7 +386,7 @@
 	],
 	"viewport": {
 		"x": 10,
-		"y": 15,
+		"y": 95.79999999999995,
 		"zoom": 1
 	}
 }
