@@ -3,8 +3,7 @@ Flow __________
      Basepath ""
 // my check
 Log "@info " Checking some code
-// 
 Log "@info " oops
 // return authn result 
-it_bpdbc = { success: true, data: { userId: "as9233Qz" } }
-Finish it_bpdbc
+it_gelpv = { success: true, data: { userId: "as9233Qz" } }
+Finish it_gelpv
