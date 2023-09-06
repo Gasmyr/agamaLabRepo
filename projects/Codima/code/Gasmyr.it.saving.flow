@@ -1,7 +1,0 @@
-// This is my Flow
-Flow Gasmyr.it.saving
-     Basepath ""
-// Start running
-Log "@info " running
-// Finishing my flow
-Finish true
