@@ -52,7 +52,8 @@
             "Gasmyr.it.saving": {
                 "One": "Monday",
                 "Two": " tuesday",
-                "Three": "Wednesday"
+                "Three": "Wednesday",
+                "four": "Friday"
             },
             "Gasmyr.it.passwordAuth": {
                 "name": "coudia",
