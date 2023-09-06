@@ -203,7 +203,7 @@
 					"displayName": "Saving Flow",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"configParams": "{\n  \"One\": \"Monday\",\n  \"Two\": \" tuesday\",\n  \"Three\": \"Wednesday\"\n}",
+					"configParams": "{\n  \"One\": \"Monday\",\n  \"Two\": \" tuesday\",\n  \"Three\": \"Wednesday\",\n  \"four\": \"Friday\"\n}",
 					"flowname": "Gasmyr.it.saving",
 					"nodeIcon": "material-symbols:line-start-square",
 					"hasComment": true
