@@ -59,7 +59,8 @@
                 "name": "coudia",
                 "coi": "codima"
             },
-            "com.example.Testing": null
+            "com.example.Testing": null,
+            "com.ti.testing": null
         }
     }
 }
