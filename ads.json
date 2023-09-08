@@ -60,7 +60,8 @@
                 "coi": "codima"
             },
             "com.example.Testing": null,
-            "com.ti.testing": null
+            "com.ti.testing": null,
+            "com.testing": {}
         }
     }
 }
