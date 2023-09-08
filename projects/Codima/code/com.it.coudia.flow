@@ -1,5 +1,5 @@
 Flow com.it.coudia
      Basepath ""
-Log "@info " 1+3
-it_lwdxg = { success: true, data: { userId: "as9233Qz" } }
-Finish it_lwdxg
+Log "@info " info
+it_qoofv = { success: true, data: { userId: "as9233Qz" } }
+Finish it_qoofv
