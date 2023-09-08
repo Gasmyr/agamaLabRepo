@@ -58,7 +58,8 @@
             "Gasmyr.it.passwordAuth": {
                 "name": "coudia",
                 "coi": "codima"
-            }
+            },
+            "com.it.testing": {}
         }
     }
 }
