@@ -61,8 +61,7 @@
             },
             "com.example.Testing": null,
             "com.ti.testing": null,
-            "com.testing": {},
-            "org.sample.code": {}
+            "com.testing": {}
         }
     }
 }
