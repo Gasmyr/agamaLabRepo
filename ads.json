@@ -62,7 +62,8 @@
             "com.example.Testing": null,
             "com.ti.testing": null,
             "com.testing": {},
-            "com.it.coudia": null
+            "com.it.coudia": null,
+            "com.sample.testing": null
         }
     }
 }
