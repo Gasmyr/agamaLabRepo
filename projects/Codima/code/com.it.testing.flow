@@ -1,6 +1,6 @@
 Flow com.it.testing
      Basepath ""
 Log "@info " testing
-callResult = Trigger com.it.testing 
-it_hvlxv = { success: true, data: { userId: "as9233Qz" } }
-Finish it_hvlxv
+callResult = Trigger Gasmyr.it.passwordAuth 
+it_bjbzk = { success: true, data: { userId: "as9233Qz" } }
+Finish it_bjbzk
