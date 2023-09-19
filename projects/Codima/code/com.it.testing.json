@@ -68,9 +68,10 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded",
 					"flowname": ""
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 630,
@@ -113,7 +114,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -134,10 +141,15 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}"
-				}
+					"configParams": "{}",
+					"nodeIcon": "fluent-mdl2:trigger-approval",
+					"flowFileName": "com.it.testing",
+					"asssignedVariableName": "callResult",
+					"flowname": "com.it.testing"
+				},
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
@@ -210,7 +222,8 @@
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16",
 					"flowname": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -340,8 +353,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
-		"zoom": 1
+		"x": 225.30956713212913,
+		"y": 100.3899638598212,
+		"zoom": 0.7169776240079136
 	}
 }
