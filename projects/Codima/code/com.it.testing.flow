@@ -1,6 +1,1 @@
-Flow com.it.testing
-     Basepath ""
-Log "@info " testing
-callResult = Trigger Gasmyr.it.passwordAuth 
-it_bjbzk = { success: true, data: { userId: "as9233Qz" } }
-Finish it_bjbzk
+[#ftl output_format="HTML"] undefined
