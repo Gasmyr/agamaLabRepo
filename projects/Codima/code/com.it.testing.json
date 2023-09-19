@@ -143,7 +143,7 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "fluent-mdl2:trigger-approval",
-					"flowFileName": "com.it.testing",
+					"flowFileName": "Gasmyr.it.passwordAuth",
 					"asssignedVariableName": "callResult",
 					"flowname": "com.it.testing"
 				},
@@ -353,8 +353,8 @@
 		}
 	],
 	"viewport": {
-		"x": 381.9061309988459,
-		"y": 103.32205281529568,
-		"zoom": 0.6070974421975236
+		"x": 412.19512002230584,
+		"y": 102.05705410839062,
+		"zoom": 0.5
 	}
 }
