@@ -2,5 +2,5 @@ Flow com.it.testing
      Basepath ""
 Log "@info " testing
 callResult = Trigger 0 
-it_cdmzt = { success: true, data: { userId: "as9233Qz" } }
-Finish it_cdmzt
+it_hbskv = { success: true, data: { userId: "as9233Qz" } }
+Finish it_hbskv
