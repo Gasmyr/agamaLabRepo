@@ -1,1 +1,6 @@
-[#ftl output_format="HTML"] undefined
+Flow com.it.testing
+     Basepath ""
+Log "@info " testing
+callResult = Trigger Gasmyr.it.passwordAuth 
+it_tcjzp = { success: true, data: { userId: "as9233Qz" } }
+Finish it_tcjzp
