@@ -83,7 +83,7 @@
 			"height": 122,
 			"id": "Agama-trigger-Node-b037c0eb-3483-4790-9f80-10bd6a2defdf",
 			"position": {
-				"x": 430,
+				"x": 429,
 				"y": 30
 			},
 			"type": "trigger",
@@ -94,7 +94,7 @@
 				"whenCondition": "",
 				"inRepeatBlock": false,
 				"position": {
-					"x": 430,
+					"x": 429,
 					"y": 30
 				},
 				"agamaData": {
@@ -147,12 +147,12 @@
 					"asssignedVariableName": "callResult",
 					"flowname": "com.it.testing"
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 430,
+				"x": 429,
 				"y": 30
 			}
 		},
