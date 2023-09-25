@@ -1,7 +1,0 @@
-// Testing flow
-Flow com.it.testing
-     Basepath ""
-Log "@info " testing
-callResult = Trigger sample 
-it_uegns = { success: true, data: { userId: "as9233Qz" } }
-Finish it_uegns
