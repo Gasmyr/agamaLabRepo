@@ -1,5 +1,5 @@
 Flow Gasmyr.it.saving
      Basepath ""
 Log "@info " sample
-it_nsibh = { success: false, error: "Your error message here" }
-Finish it_nsibh
+it_eusam = { success: false, error: "Your error message here" }
+Finish it_eusam
