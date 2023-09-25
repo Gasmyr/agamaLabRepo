@@ -3,5 +3,5 @@ Flow com.it.testing
      Basepath ""
 Log "@info " testing
 callResult = Trigger 0 
-it_mmoay = { success: true, data: { userId: "as9233Qz" } }
-Finish it_mmoay
+it_cahtp = { success: true, data: { userId: "as9233Qz" } }
+Finish it_cahtp
