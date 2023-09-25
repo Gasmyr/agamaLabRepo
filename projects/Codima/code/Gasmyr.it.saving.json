@@ -53,7 +53,7 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "{ success: false, error: \"Your error message here\" }",
+					"returnVariable": "{ success: true, data: { userId: \"as9233Qz\" } }",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
@@ -63,7 +63,7 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"finishMode": "withFailure",
+					"finishMode": "withSuccess",
 					"hasExtraData": true,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded",
@@ -71,7 +71,7 @@
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
@@ -176,7 +176,7 @@
 					"hasRepeat": false,
 					"hasComment": true,
 					"hasNoRepeat": false,
-					"isTopLevelFlow": false,
+					"isTopLevelFlow": true,
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
@@ -220,7 +220,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
