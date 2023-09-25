@@ -59,7 +59,8 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"configParams": "{}"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 430,
@@ -124,7 +125,8 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"configParams": "{}"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -189,7 +191,7 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{\n  \"nbAttemps\": 15\n}",
+					"configParams": "{\n  \"nbAttemps\": 15,\n  \"count\":30\n}",
 					"flowname": "com.example.authcase",
 					"nodeIcon": "material-symbols:line-start-square"
 				},
@@ -199,7 +201,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
