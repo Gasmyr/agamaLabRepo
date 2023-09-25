@@ -73,7 +73,9 @@
                 "nbAttemps": 15,
                 "count": 35
             },
-            "com.example.testing": {}
+            "com.example.testing": {
+                "name": "Gasmyr"
+            }
         }
     }
 }
