@@ -147,9 +147,9 @@
 					"asssignedVariableName": "callResult",
 					"flowname": "com.it.testing"
 				},
-				"skake": true
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 429,
@@ -258,10 +258,16 @@
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "Testing flow",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -283,7 +289,8 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"configParams": "{}",
-					"flowname": "com.it.testing"
+					"flowname": "com.it.testing",
+					"nodeIcon": "material-symbols:line-start-square"
 				},
 				"skake": false
 			},
@@ -291,7 +298,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
