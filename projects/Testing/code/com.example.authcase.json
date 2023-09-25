@@ -126,7 +126,7 @@
 					"hasExtraData": false,
 					"configParams": "{}"
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
