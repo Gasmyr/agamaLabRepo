@@ -1,5 +1,5 @@
 Flow Gasmyr.it.saving
      Basepath ""
 Log "@info " sample
-it_jwhsh = { success: false, error: "Your error message here" }
-Finish it_jwhsh
+it_rwkok = { success: true, data: { userId: "as9233Qz" } }
+Finish it_rwkok
