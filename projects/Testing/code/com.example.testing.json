@@ -66,9 +66,10 @@
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16",
 					"flowname": "com.example.testing"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -104,7 +105,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -125,8 +132,9 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}",
-					"flowname": "com.example.testing"
+					"configParams": "{\n  \"name\": \"Gasmyr\"\n}",
+					"flowname": "com.example.testing",
+					"nodeIcon": "material-symbols:line-start-square"
 				},
 				"skake": false
 			},
@@ -134,7 +142,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
