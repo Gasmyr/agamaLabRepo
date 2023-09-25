@@ -72,7 +72,8 @@
             "com.example.authcase": {
                 "nbAttemps": 15,
                 "count": 35
-            }
+            },
+            "com.example.testing": {}
         }
     }
 }
