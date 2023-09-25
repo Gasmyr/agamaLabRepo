@@ -71,7 +71,7 @@
         "configs": {
             "com.example.authcase": {
                 "nbAttemps": 15,
-                "count": 30
+                "count": 35
             }
         }
     }
