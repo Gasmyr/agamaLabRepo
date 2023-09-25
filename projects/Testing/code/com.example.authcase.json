@@ -126,7 +126,7 @@
 					"hasExtraData": false,
 					"configParams": "{}"
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": false,
 			"dragging": false,
@@ -146,7 +146,7 @@
 				"type": "Agama-start-Flow",
 				"position": {
 					"x": 30,
-					"y": 30
+					"y": 29
 				},
 				"inRepeatBlock": false,
 				"agamaData": {
@@ -199,13 +199,13 @@
 			},
 			"position": {
 				"x": 30,
-				"y": 30
+				"y": 29
 			},
 			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
-				"y": 30
+				"y": 29
 			}
 		}
 	],
