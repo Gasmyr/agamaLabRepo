@@ -126,7 +126,7 @@
 					"hasExtraData": false,
 					"configParams": "{}"
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -191,7 +191,7 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{\n  \"nbAttemps\": 15,\n  \"count\":30\n}",
+					"configParams": "{\n  \"nbAttemps\": 15,\n  \"count\": 35\n}",
 					"flowname": "com.example.authcase",
 					"nodeIcon": "material-symbols:line-start-square"
 				},
