@@ -67,6 +67,11 @@
             "jans",
             "community"
         ],
-        "noDirectLaunch": []
+        "noDirectLaunch": [],
+        "configs": {
+            "com.example.authcase": {
+                "nbAttemps": 15
+            }
+        }
     }
 }
