@@ -1,5 +1,0 @@
-Flow com.example.authcase
-     Basepath ""
-Log "@info " testing
-it_hrrkh = { success: false, error: "Your error message here" }
-Finish it_hrrkh
