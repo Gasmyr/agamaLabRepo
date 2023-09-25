@@ -1,6 +1,7 @@
+// Testing flow
 Flow com.it.testing
      Basepath ""
 Log "@info " testing
 callResult = Trigger 0 
-it_uiopr = { success: true, data: { userId: "as9233Qz" } }
-Finish it_uiopr
+it_mmoay = { success: true, data: { userId: "as9233Qz" } }
+Finish it_mmoay
