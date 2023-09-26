@@ -55,7 +55,7 @@
     },
     "TestingProject": {
         "projectName": "TestingProject",
-        "description": "Testing project",
+        "description": "Testing project updated",
         "type": "community",
         "author": "Gasmyr",
         "version": "0.0.1",
@@ -64,7 +64,9 @@
         "license": "MIT",
         "lastUpdated": "1695735271301",
         "tags": [
-            "jans"
+            "jans",
+            "openid-connect",
+            "authentication"
         ],
         "noDirectLaunch": [],
         "configs": {
