@@ -36,10 +36,16 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
-					"logMessage": "",
+					"logMessage": "sample",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -51,20 +57,24 @@
 					"javaMethodName": "",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
-					"logLevel": "",
+					"logLevel": "info",
 					"assignCallbackResult": "",
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}"
+					"configParams": "{}",
+					"nodeIcon": "octicon:log-16",
+					"flowname": "com.it.tester"
 				},
-				"skake": false
+				"skake": true
 			},
 			"positionAbsolute": {
 				"x": 230,
 				"y": 30
-			}
+			},
+			"selected": true,
+			"dragging": false
 		},
 		{
 			"width": 170,
@@ -126,13 +136,13 @@
 					"nodeIcon": "material-symbols:line-start-square",
 					"flowname": "com.it.tester"
 				},
-				"skake": true
+				"skake": false
 			},
 			"position": {
 				"x": 30,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
