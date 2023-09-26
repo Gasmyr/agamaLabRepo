@@ -68,7 +68,8 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded",
 					"flowname": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -143,7 +144,8 @@
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16",
 					"flowname": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -218,7 +220,8 @@
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16",
 					"flowname": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
