@@ -67,6 +67,8 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "com.it.tester": {}
+        }
     }
 }
