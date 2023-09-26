@@ -1,2 +1,6 @@
 Flow com.testing.sample
      Basepath ""
+Log "@info " one
+Log "@info " two
+it_xvxfj = { success: true, data: { userId: "as9233Qz" } }
+Finish it_xvxfj
