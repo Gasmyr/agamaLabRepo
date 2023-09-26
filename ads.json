@@ -68,7 +68,7 @@
             "openid-connect",
             "authentication"
         ],
-        "noDirectLaunch": "com.testing.sample",
+        "noDirectLaunch": [],
         "configs": {
             "com.testing.sample": {}
         }
