@@ -58,7 +58,8 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"configParams": "{}"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 230,
@@ -94,7 +95,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -111,19 +118,21 @@
 					"maxIterationVariableName": "",
 					"logLevel": "",
 					"assignCallbackResult": "",
-					"displayName": "",
+					"displayName": "Testing",
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}"
+					"configParams": "{}",
+					"nodeIcon": "material-symbols:line-start-square",
+					"flowname": "com.it.tester"
 				},
-				"skake": false
+				"skake": true
 			},
 			"position": {
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
