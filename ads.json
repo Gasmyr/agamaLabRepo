@@ -52,21 +52,5 @@
         "configs": {
             "Gasmyr.it.saving": {}
         }
-    },
-    "TestingProject": {
-        "projectName": "TestingProject",
-        "description": "Testing project description",
-        "type": "community",
-        "author": "Gasmyr",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
-        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
-        "license": "MIT",
-        "lastUpdated": "1695716174150",
-        "tags": [
-            "jans",
-            "community"
-        ],
-        "noDirectLaunch": []
     }
 }
