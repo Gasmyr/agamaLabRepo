@@ -67,6 +67,8 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "com.testing.sample": {}
+        }
     }
 }
