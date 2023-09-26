@@ -69,10 +69,12 @@
             "authentication"
         ],
         "noDirectLaunch": [
+            "com.sample.one",
             "com.testing.sample"
         ],
         "configs": {
-            "com.testing.sample": {}
+            "com.testing.sample": {},
+            "com.sample.one": {}
         }
     }
 }
