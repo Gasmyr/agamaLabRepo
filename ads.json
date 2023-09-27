@@ -52,29 +52,5 @@
         "configs": {
             "Gasmyr.it.saving": {}
         }
-    },
-    "TestingProject": {
-        "projectName": "TestingProject",
-        "description": "Testing project updated",
-        "type": "community",
-        "author": "Gasmyr",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
-        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
-        "license": "MIT",
-        "lastUpdated": "1695735271301",
-        "tags": [
-            "jans",
-            "openid-connect",
-            "authentication"
-        ],
-        "noDirectLaunch": [
-            "com.sample.one",
-            "com.testing.sample"
-        ],
-        "configs": {
-            "com.testing.sample": {},
-            "com.sample.one": {}
-        }
     }
 }
