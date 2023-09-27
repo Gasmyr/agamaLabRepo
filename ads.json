@@ -68,7 +68,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "com.agamatesting.one": {}
+            "com.agamatesting.one": {},
+            "com.testing.second": {}
         }
     }
 }
