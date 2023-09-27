@@ -67,6 +67,8 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "com.agamatesting.one": {}
+        }
     }
 }
