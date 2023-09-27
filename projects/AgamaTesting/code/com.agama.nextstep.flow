@@ -1,2 +1,5 @@
 Flow com.agama.nextstep
      Basepath ""
+Log "@info " one
+it_lsqpl = true
+Finish it_lsqpl
