@@ -66,9 +66,12 @@
         "tags": [
             "authentication"
         ],
-        "noDirectLaunch": [],
+        "noDirectLaunch": [
+            "com.agama.nextstep"
+        ],
         "configs": {
-            "com.agamatesting.one": {}
+            "com.agamatesting.one": {},
+            "com.agama.nextstep": {}
         }
     }
 }
