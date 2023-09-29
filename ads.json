@@ -46,9 +46,7 @@
             "openid-connect",
             "community"
         ],
-        "noDirectLaunch": [
-            "Gasmyr.it.saving"
-        ],
+        "noDirectLaunch": [],
         "configs": {
             "Gasmyr.it.saving": {}
         }
