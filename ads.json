@@ -48,7 +48,18 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "Gasmyr.it.saving": {}
+            "Gasmyr.it.saving": {},
+            "Gasmyr.it.passwordAuth": {
+                "name": "coudia",
+                "coi": "codima",
+                "user": {
+                    "firstName": "bob",
+                    "linkedin": "www.linkedin/gash",
+                    "ipAddress": "192.45.45.10",
+                    "authorizedLoginLocation": "Cameroon",
+                    "maxLoginAttemps": 5
+                }
+            }
         }
     },
     "AgamaTesting": {
