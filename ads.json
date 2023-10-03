@@ -61,23 +61,5 @@
                 }
             }
         }
-    },
-    "AgamaTesting": {
-        "projectName": "AgamaTesting",
-        "description": "Description",
-        "type": "community",
-        "author": "Gasmyr",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
-        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
-        "license": "MIT",
-        "lastUpdated": "1695808718479",
-        "tags": [
-            "authentication"
-        ],
-        "noDirectLaunch": [],
-        "configs": {
-            "com.agamatesting.one": {}
-        }
     }
 }
