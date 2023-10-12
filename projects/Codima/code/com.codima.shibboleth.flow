@@ -5,5 +5,5 @@ tokenCount = "15"
 nbAttempts = "10"
 callResult = Call Utils#checkValue tokenCount
 rffResult = RRF "otp.ftl" callResult
-it_sweqt = { success: true, data: { userId: "as9233Qz" } }
-Finish it_sweqt
+it_gackq = { success: true, data: { userId: "as9233Qz" } }
+Finish it_gackq
