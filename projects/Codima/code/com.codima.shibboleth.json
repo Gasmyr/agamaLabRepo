@@ -347,7 +347,13 @@
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": [],
 					"logMessage": "",
@@ -368,7 +374,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}"
+					"configParams": "{}",
+					"nodeIcon": "material-symbols:line-start-square",
+					"flowname": "com.codima.shibboleth",
+					"flowName": "com.codima.shibboleth"
 				},
 				"skake": true
 			},
