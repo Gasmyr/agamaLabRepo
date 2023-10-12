@@ -67,9 +67,10 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 830,
@@ -144,7 +145,8 @@
 					"configParams": "{}",
 					"nodeIcon": "ph:globe-simple",
 					"asssignedVariableName": "rffResult"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -221,7 +223,8 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "callResult"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -305,7 +308,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -366,13 +370,13 @@
 					"hasExtraData": false,
 					"configParams": "{}"
 				},
-				"skake": false
+				"skake": true
 			},
 			"position": {
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -451,8 +455,8 @@
 		}
 	],
 	"viewport": {
-		"x": 68.03811850810601,
-		"y": 172.29937710136122,
-		"zoom": 0.6070974421975234
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
