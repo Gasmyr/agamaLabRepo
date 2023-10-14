@@ -33,7 +33,7 @@
 					"parentId": "Agama-start-Flow-101569ab-e9b6-4155-9748-0809baa5bf4d",
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "sample",
 					"notes": "",
 					"flowfilename": "",
 					"assignments": [
@@ -65,11 +65,12 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16",
-					"flowname": "Gasmyr.it.saving"
+					"flowname": "Gasmyr.it.saving",
+					"descColor": "#4022d3"
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -216,9 +217,10 @@
 					"nodeIcon": "fluent-mdl2:trigger-approval",
 					"flowFileName": "Gasmyr.it.passwordAuth",
 					"asssignedVariableName": "result"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
