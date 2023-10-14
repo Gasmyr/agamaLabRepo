@@ -1,6 +1,7 @@
 Flow Gasmyr.it.saving
      Basepath ""
+// sample
 Log "@info " sample
 result = Trigger Gasmyr.it.passwordAuth 
-it_hxfio = { success: true, data: { userId: "as9233Qz" } }
-Finish it_hxfio
+it_ebcqq = { success: true, data: { userId: "as9233Qz" } }
+Finish it_ebcqq
