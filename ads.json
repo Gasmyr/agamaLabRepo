@@ -59,8 +59,7 @@
                     "authorizedLoginLocation": "Cameroon",
                     "maxLoginAttemps": 5
                 }
-            },
-            "com.codea.oidc": {}
+            }
         }
     }
 }
