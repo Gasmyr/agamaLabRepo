@@ -1,9 +1,0 @@
-Flow com.codima.shibboleth
-     Basepath ""
-userName = "gasmyr"
-tokenCount = "15"
-nbAttempts = "10"
-callResult = Call Utils#checkValue tokenCount
-rffResult = RRF "otp.ftl" callResult
-it_lvuqf = { success: true, data: { userId: "as9233Qz" } }
-Finish it_lvuqf
