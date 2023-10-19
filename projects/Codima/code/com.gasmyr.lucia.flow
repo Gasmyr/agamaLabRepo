@@ -1,2 +1,5 @@
 Flow com.gasmyr.lucia
      Basepath ""
+loginCount = "5"
+ipAddress = "192"
+triggerResult = Trigger Gasmyr.it.passwordAuth loginCount
