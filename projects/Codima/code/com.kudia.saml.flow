@@ -2,6 +2,6 @@ Flow com.kudia.saml
      Basepath ""
 country = "Cameroon"
 When device is Android
-     Log "@info " Device is Android
+     Log "@info Device is Android"
 rfacResult = RFAC www.google.com
 rrfResult = RRF "fido.ftl" country
