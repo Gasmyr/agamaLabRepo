@@ -47,8 +47,7 @@
             "community"
         ],
         "noDirectLaunch": [
-            "com.gasmyr.lucia",
-            "com.kudia.saml"
+            "com.gasmyr.lucia"
         ],
         "configs": {
             "Gasmyr.it.saving": {},
@@ -66,9 +65,6 @@
             "com.gasmyr.lucia": {
                 "ip": "192.168.1.1",
                 "location": "Douala"
-            },
-            "com.kudia.saml": {
-                "device": "Android"
             }
         }
     }
