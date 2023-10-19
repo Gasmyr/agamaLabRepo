@@ -66,9 +66,10 @@
 					"configParams": "{}",
 					"nodeIcon": "ph:globe-simple",
 					"asssignedVariableName": "rrfResult"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 880,
@@ -140,7 +141,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "ic:baseline-insert-link"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -194,7 +196,7 @@
 					],
 					"callType": "Call static method",
 					"arguments": [],
-					"logMessage": "Device is Android",
+					"logMessage": "\"Device is Android\"",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -214,9 +216,10 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 543,
@@ -265,7 +268,8 @@
 				"handles": [
 					"Agama-when-Node-fad2da71-cc74-48d8-8043-89722882746b.FAILURE",
 					"Agama-when-Node-fad2da71-cc74-48d8-8043-89722882746b.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -339,7 +343,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
