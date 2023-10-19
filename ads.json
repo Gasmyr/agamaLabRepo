@@ -47,7 +47,8 @@
             "community"
         ],
         "noDirectLaunch": [
-            "com.gasmyr.lucia"
+            "com.gasmyr.lucia",
+            "com.kudia.saml"
         ],
         "configs": {
             "Gasmyr.it.saving": {},
