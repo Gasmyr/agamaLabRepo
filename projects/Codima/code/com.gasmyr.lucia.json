@@ -69,9 +69,10 @@
 					"nodeIcon": "fluent-mdl2:trigger-approval",
 					"flowFileName": "Gasmyr.it.passwordAuth",
 					"asssignedVariableName": "triggerResult"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
@@ -148,7 +149,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -179,14 +181,20 @@
 					"hasRepeat": false,
 					"hasComment": true,
 					"hasNoRepeat": false,
-					"isTopLevelFlow": true,
+					"isTopLevelFlow": false,
 					"inRepeatBlock": false,
 					"name": "",
 					"basepath": "",
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": [],
 					"logMessage": "",
@@ -207,8 +215,9 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}",
-					"flowname": "com.gasmyr.lucia"
+					"configParams": "{\n  \"ip\":\"192.168.1.1\",\n  \"location\": \"Douala\"\n}",
+					"flowname": "com.gasmyr.lucia",
+					"nodeIcon": "material-symbols:line-start-square"
 				},
 				"skake": false
 			},
@@ -216,7 +225,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -261,8 +270,8 @@
 		}
 	],
 	"viewport": {
-		"x": 137.92611394842305,
-		"y": 60.84962491071799,
-		"zoom": 0.7169776240079136
+		"x": 241.84467198184075,
+		"y": 81.22922262974342,
+		"zoom": 0.5904963307147653
 	}
 }
