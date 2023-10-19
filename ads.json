@@ -46,7 +46,9 @@
             "openid-connect",
             "community"
         ],
-        "noDirectLaunch": [],
+        "noDirectLaunch": [
+            "com.gasmyr.lucia"
+        ],
         "configs": {
             "Gasmyr.it.saving": {},
             "Gasmyr.it.passwordAuth": {
@@ -60,7 +62,10 @@
                     "maxLoginAttemps": 5
                 }
             },
-            "com.gasmyr.lucia": {}
+            "com.gasmyr.lucia": {
+                "ip": "192.168.1.1",
+                "location": "Douala"
+            }
         }
     }
 }
