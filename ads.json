@@ -65,7 +65,8 @@
             "com.gasmyr.lucia": {
                 "ip": "192.168.1.1",
                 "location": "Douala"
-            }
+            },
+            "com.kudia.saml": {}
         }
     }
 }
