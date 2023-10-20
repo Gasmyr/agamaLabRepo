@@ -1,2 +1,4 @@
 Flow com.kudia.mfa
      Basepath ""
+     Timeout 100 seconds
+Log "@info running"
