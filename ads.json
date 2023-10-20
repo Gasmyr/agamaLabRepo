@@ -59,7 +59,8 @@
                     "authorizedLoginLocation": "Cameroon",
                     "maxLoginAttemps": 5
                 }
-            }
+            },
+            "com.kudia.mfa": {}
         }
     }
 }
