@@ -207,7 +207,8 @@
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"configParams": "{}"
-				}
+				},
+				"skake": true
 			},
 			"positionAbsolute": {
 				"x": 430,
