@@ -3,5 +3,4 @@ Flow com.kudia.mfa
      Timeout 100 seconds
 Log "@info running"
 Call __________#__________ 
-it_afzhk = false
-Finish it_afzhk
+Finish false
