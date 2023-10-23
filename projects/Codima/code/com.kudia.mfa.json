@@ -208,7 +208,7 @@
 					"hasExtraData": false,
 					"configParams": "{}"
 				},
-				"skake": false
+				"skake": true
 			},
 			"positionAbsolute": {
 				"x": 430,
