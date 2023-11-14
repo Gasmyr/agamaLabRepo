@@ -15,7 +15,10 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "com.gasmyr.login": {}
+            "com.gasmyr.login": {
+                "location": "douala",
+                "ip": "192.168.0.22"
+            }
         },
         "name": "SimpleLogin"
     }
