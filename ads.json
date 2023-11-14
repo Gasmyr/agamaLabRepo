@@ -1,1 +1,19 @@
-{}
+{
+    "SimpleLogin": {
+        "projectName": "SimpleLogin",
+        "description": "Simple login ",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
+        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
+        "license": "apache-2.0",
+        "lastUpdated": "1699977563649",
+        "tags": [
+            "openid-connect",
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
