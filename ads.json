@@ -31,5 +31,22 @@
             "com.kudia.mfa": {}
         },
         "name": "Codima"
+    },
+    "fakeProject": {
+        "projectName": "fakeProject",
+        "description": "<IMG SRC= onmouseover=\"alert('xxs')\">",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
+        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
+        "license": "apache-2.0",
+        "lastUpdated": "1699975869334",
+        "tags": [
+            "openid-connect",
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
