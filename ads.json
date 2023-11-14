@@ -34,7 +34,7 @@
     },
     "fakeProject": {
         "projectName": "fakeProject",
-        "description": "<IMG SRC= onmouseover=\"alert('xxs')\">",
+        "description": "<image src =q onerror=prompt(8)>",
         "type": "community",
         "author": "Gasmyr",
         "version": "0.0.1",
@@ -47,6 +47,7 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {},
+        "name": "fakeProject"
     }
 }
