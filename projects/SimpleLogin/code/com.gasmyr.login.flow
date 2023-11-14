@@ -1,2 +1,6 @@
 Flow com.gasmyr.login
      Basepath ""
+     Timeout 5000 seconds
+     Configs configs
+     Inputs userName passWord
+Log "@info Kudia login started"
