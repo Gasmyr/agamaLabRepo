@@ -1,7 +1,0 @@
-Flow com.kudia.mfa
-     Basepath ""
-     Timeout 100 seconds
-Log "@info running"
-Call __________#__________ 
-resultTrigger = Trigger Gasmyr.it.passwordAuth uerName
-Finish false
