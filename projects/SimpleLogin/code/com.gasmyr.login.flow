@@ -4,5 +4,5 @@ Flow com.gasmyr.login
      Configs conf
      Inputs userName passWord
 Log "@info Kudia login started"
-it_ltvav = { success: true, data: { userId: "as9233Qz" } }
-Finish it_ltvav
+it_qdlvx = { success: true, data: { userId: "as9233Qz" } }
+Finish it_qdlvx
