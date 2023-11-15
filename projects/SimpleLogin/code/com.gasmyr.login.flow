@@ -1,8 +1,8 @@
 Flow com.gasmyr.login
      Basepath ""
      Timeout 5000 seconds
-     Configs configs
+     Configs conf
      Inputs userName passWord
 Log "@info Kudia login started"
-it_igosq = { success: true, data: { userId: "as9233Qz" } }
-Finish it_igosq
+it_ltvav = { success: true, data: { userId: "as9233Qz" } }
+Finish it_ltvav
