@@ -66,9 +66,10 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
@@ -211,7 +212,7 @@
 					"nodeIcon": "material-symbols:line-start-square",
 					"timeout": "5000",
 					"inputs": "userName passWord",
-					"configs": "configs"
+					"configs": "conf"
 				},
 				"skake": false
 			},
@@ -219,7 +220,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
