@@ -65,7 +65,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -115,7 +116,8 @@
 				"handles": [
 					"Agama-when-Node-365ec964-703e-40f9-96e0-64978f19f0a7.FAILURE",
 					"Agama-when-Node-365ec964-703e-40f9-96e0-64978f19f0a7.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -242,7 +244,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 343,
