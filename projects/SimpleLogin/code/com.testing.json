@@ -31,7 +31,7 @@
 					"valueField": "",
 					"returnVariable": "",
 					"nodeColor": "#19945b",
-					"configParams": "{}",
+					"configParams": "{\n  \"one\":\"1\"\n}",
 					"nodeIcon": "material-symbols:line-start-square",
 					"flowname": "com.testing",
 					"flowName": "com.testing",
@@ -43,7 +43,8 @@
 						}
 					],
 					"timeout": "1000",
-					"configs": "configs"
+					"configs": "configs",
+					"inputs": "username password"
 				},
 				"skake": false
 			},
