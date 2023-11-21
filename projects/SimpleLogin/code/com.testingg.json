@@ -44,7 +44,10 @@
 						}
 					],
 					"callType": "Call static method",
-					"arguments": "second",
+					"arguments": [
+						"second",
+						"callResult"
+					],
 					"logMessage": "",
 					"templatePath": "",
 					"maxIteration": "",
@@ -65,9 +68,10 @@
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "callResult"
-				}
+				},
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 593,
@@ -113,7 +117,8 @@
 						}
 					],
 					"arguments": []
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 730,
@@ -163,9 +168,10 @@
 				"handles": [
 					"Agama-when-Node-0573c05a-16e8-4651-a679-f1be4d0f2c20.FAILURE",
 					"Agama-when-Node-0573c05a-16e8-4651-a679-f1be4d0f2c20.SUCCESS"
-				]
+				],
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 480,
@@ -448,8 +454,8 @@
 		}
 	],
 	"viewport": {
-		"x": 247.2213955522418,
-		"y": 109.81249595734883,
-		"zoom": 0.716977624007914
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
