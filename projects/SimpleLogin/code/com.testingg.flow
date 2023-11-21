@@ -11,6 +11,6 @@ When one is 11
 // second when
 When one is not "me"
      // call comment
-     callResult | exceptionValue = Call Utils#close second
+     callResult | exceptionValue = Call Utils#close second callResult
 // last log comment
 Log "@trace last"
