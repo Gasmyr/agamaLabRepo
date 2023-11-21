@@ -1,40 +1,68 @@
-[
-  {
-    "id": "Agama-start-Flow-5cbba92c-02cc-4921-a54a-5e8f846a3e64",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-5cbba92c-02cc-4921-a54a-5e8f846a3e64",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 30,
-        "y": 30
-      },
-      "inRepeatBlock": false,
-      "agamaData": {
-        "id": "Agama-start-Flow-5cbba92c-02cc-4921-a54a-5e8f846a3e64",
-        "type": "Agama-start-Flow",
-        "hasRepeat": false,
-        "hasComment": true,
-        "comment": "",
-        "hasNoRepeat": false,
-        "isTopLevelFlow": true,
-        "inRepeatBlock": false,
-        "name": "",
-        "displayName": "Testing",
-        "basepath": "",
-        "arguments": [],
-        "variableField": "",
-        "valueField": "",
-        "returnVariable": "",
-        "nodeColor": "",
-        "configParams": "{}",
-        "flowname": "com.testing"
-      }
-    },
-    "position": {
-      "x": 30,
-      "y": 30
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-start-Flow-2512b3b8-ed25-4749-82a5-c8b408006a88",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-2512b3b8-ed25-4749-82a5-c8b408006a88",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 30,
+					"y": 30
+				},
+				"inRepeatBlock": false,
+				"agamaData": {
+					"id": "Agama-start-Flow-2512b3b8-ed25-4749-82a5-c8b408006a88",
+					"type": "Agama-start-Flow",
+					"hasRepeat": false,
+					"hasComment": true,
+					"comment": "description",
+					"hasNoRepeat": false,
+					"isTopLevelFlow": true,
+					"inRepeatBlock": false,
+					"name": "",
+					"displayName": "title",
+					"basepath": "",
+					"arguments": [],
+					"variableField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"nodeColor": "#19945b",
+					"configParams": "{}",
+					"nodeIcon": "material-symbols:line-start-square",
+					"flowname": "com.testing",
+					"flowName": "com.testing",
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
+					"timeout": "1000",
+					"configs": "configs"
+				},
+				"skake": false
+			},
+			"position": {
+				"x": 30,
+				"y": 30
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 30,
+				"y": 30
+			}
+		}
+	],
+	"edges": [],
+	"viewport": {
+		"x": 10,
+		"y": 15,
+		"zoom": 1
+	}
+}
