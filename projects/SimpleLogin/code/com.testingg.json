@@ -1,34 +1,63 @@
-[
-  {
-    "id": "Agama-start-Flow-a19e831e-e1b0-4a5f-88a2-0a820f9b5566",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-a19e831e-e1b0-4a5f-88a2-0a820f9b5566",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 30,
-        "y": 30
-      },
-      "inRepeatBlock": false,
-      "agamaData": {
-        "id": "Agama-start-Flow-a19e831e-e1b0-4a5f-88a2-0a820f9b5566",
-        "type": "Agama-start-Flow",
-        "displayName": "Testingg",
-        "hasComment": true,
-        "comment": "",
-        "nodeColor": "",
-        "hasRepeat": false,
-        "hasNoRepeat": false,
-        "isTopLevelFlow": true,
-        "basepath": "",
-        "configParams": "{}",
-        "flowname": "com.testingg"
-      }
-    },
-    "position": {
-      "x": 30,
-      "y": 30
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-start-Flow-a19e831e-e1b0-4a5f-88a2-0a820f9b5566",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-a19e831e-e1b0-4a5f-88a2-0a820f9b5566",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 30,
+					"y": 30
+				},
+				"inRepeatBlock": false,
+				"agamaData": {
+					"id": "Agama-start-Flow-a19e831e-e1b0-4a5f-88a2-0a820f9b5566",
+					"type": "Agama-start-Flow",
+					"displayName": "Testingg",
+					"hasComment": true,
+					"comment": "description",
+					"nodeColor": "",
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"isTopLevelFlow": true,
+					"basepath": "",
+					"configParams": "{\n  \"one\":\"11\"\n}",
+					"flowname": "com.testingg",
+					"nodeIcon": "material-symbols:line-start-square",
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
+					"arguments": [],
+					"timeout": "1000",
+					"inputs": "username password",
+					"configs": "configs"
+				},
+				"skake": false
+			},
+			"position": {
+				"x": 30,
+				"y": 30
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 30,
+				"y": 30
+			}
+		}
+	],
+	"edges": [],
+	"viewport": {
+		"x": 10,
+		"y": 15,
+		"zoom": 1
+	}
+}
