@@ -19,7 +19,9 @@
                 "location": "douala",
                 "ip": "192.168.0.22"
             },
-            "com.testing": {}
+            "com.testing": {
+                "one": "1"
+            }
         },
         "name": "SimpleLogin"
     }
