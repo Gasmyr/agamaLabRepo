@@ -8,5 +8,9 @@ Flow com.testingg
 When one is 11
      // des
      Log "@error fast"
-// des
-Log "@info running"
+// second when
+When one is not "me"
+     // call comment
+     callResult | exceptionValue = Call Utils#close second
+// last log comment
+Log "@trace last"
