@@ -18,7 +18,8 @@
             "com.gasmyr.login": {
                 "location": "douala",
                 "ip": "192.168.0.22"
-            }
+            },
+            "com.sample.Running": {}
         },
         "name": "SimpleLogin"
     }
