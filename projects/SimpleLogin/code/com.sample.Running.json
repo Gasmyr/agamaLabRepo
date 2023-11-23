@@ -29,9 +29,10 @@
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"nodeIcon": "ic:baseline-insert-link",
-					"idpAuthEndpoint": "https://sample.com",
+					"idpAuthEndpoint": "https://www.sample.com",
 					"assignCallbackResult": "rfacResult"
-				}
+				},
+				"skake": true
 			},
 			"positionAbsolute": {
 				"x": 880,
@@ -73,7 +74,8 @@
 					"templatePath": "otf.ftl",
 					"asssignedVariableName": "rffResult",
 					"arguments": "location"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -115,7 +117,8 @@
 				"handles": [
 					"Agama-when-Node-b79e62b0-323e-444a-8568-f38113e9b7d5.FAILURE",
 					"Agama-when-Node-b79e62b0-323e-444a-8568-f38113e9b7d5.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
