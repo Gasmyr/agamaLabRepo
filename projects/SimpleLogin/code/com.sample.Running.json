@@ -29,7 +29,7 @@
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"nodeIcon": "ic:baseline-insert-link",
-					"idpAuthEndpoint": "https://www.sample.com",
+					"idpAuthEndpoint": "https://www.sample.com/sample.htm",
 					"assignCallbackResult": "rfacResult"
 				},
 				"skake": true
