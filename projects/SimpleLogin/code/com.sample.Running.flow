@@ -13,4 +13,4 @@ When location is "yde"
      // rff comment
      rffResult = RRF "otf.ftl" location
 // description
-rfacResult = RFAC https://www.sample.com
+rfacResult = RFAC https://www.sample.com/sample.htm
