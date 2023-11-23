@@ -8,3 +8,9 @@ Flow com.sample.Running
 callResult | exception = Call Utils#getInstance dbConfig
 // comment assigments
 location = "Douala"
+// where are in yde
+When location is "yde"
+     // rff comment
+     rffResult = RRF "otf.ftl" location
+// description
+rfacResult = RFAC https://sample.com
