@@ -3,6 +3,51 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-assignment-Node-93757688-e466-4744-be64-c23961ede0a3",
+			"position": {
+				"x": 430,
+				"y": 30
+			},
+			"type": "assignment",
+			"data": {
+				"id": "Agama-assignment-Node-93757688-e466-4744-be64-c23961ede0a3",
+				"type": "Agama-assignment-Node",
+				"parentId": "Agama-call-Node-98a832e0-dcda-4be9-8e9c-6b9146d8456c",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"position": {
+					"x": 430,
+					"y": 30
+				},
+				"agamaData": {
+					"id": "Agama-assignment-Node-93757688-e466-4744-be64-c23961ede0a3",
+					"parentId": "Agama-call-Node-98a832e0-dcda-4be9-8e9c-6b9146d8456c",
+					"type": "Agama-assignment-Node",
+					"displayName": "Assignment section",
+					"hasComment": true,
+					"comment": "comment assigments",
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "Douala",
+							"assignedVariableName": "location"
+						}
+					],
+					"nodeIcon": "material-symbols:equal"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 430,
+				"y": 30
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-call-Node-98a832e0-dcda-4be9-8e9c-6b9146d8456c",
 			"position": {
 				"x": 230,
@@ -36,9 +81,10 @@
 					"arguments": "dbConfig",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "callResult"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 230,
@@ -94,6 +140,23 @@
 			"type": "straight",
 			"source": "Agama-start-Flow-a47e1fdf-b3fd-44e7-a935-23fd07f6d833",
 			"target": "Agama-call-Node-98a832e0-dcda-4be9-8e9c-6b9146d8456c",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		},
+		{
+			"id": "Agama-call-Node-98a832e0-dcda-4be9-8e9c-6b9146d8456c-Agama-assignment-Node-93757688-e466-4744-be64-c23961ede0a3-8a07f71f-a532-45c6-8f07-b28e2339bcdb",
+			"type": "straight",
+			"source": "Agama-call-Node-98a832e0-dcda-4be9-8e9c-6b9146d8456c",
+			"target": "Agama-assignment-Node-93757688-e466-4744-be64-c23961ede0a3",
 			"label": "",
 			"labelBgPadding": [
 				8,
