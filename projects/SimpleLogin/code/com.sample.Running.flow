@@ -1,3 +1,8 @@
+// commenting
 Flow com.sample.Running
      Basepath ""
-     Configs {}
+     Timeout 100 seconds
+     Configs configs
+     Inputs monday tuesday
+// commenting
+callResult | exception = Call Utils#getInstance dbConfig
