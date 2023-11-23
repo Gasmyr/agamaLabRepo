@@ -3,6 +3,47 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "finish-8deb13a7-e9be-4bfe-b07d-591694f515f5",
+			"position": {
+				"x": 1080,
+				"y": 30
+			},
+			"type": "finish",
+			"data": {
+				"id": "finish-8deb13a7-e9be-4bfe-b07d-591694f515f5",
+				"type": "Agama-finish-Flow",
+				"parentId": "Agama-rfac-Node-49a20a5e-3121-4f13-b60d-a6fc7784d66b",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 1080,
+					"y": 30
+				},
+				"agamaData": {
+					"id": "finish-8deb13a7-e9be-4bfe-b07d-591694f515f5",
+					"parentId": "Agama-rfac-Node-49a20a5e-3121-4f13-b60d-a6fc7784d66b",
+					"type": "Agama-finish-Flow",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasComment": true,
+					"comment": "closing block",
+					"flowfilename": "",
+					"returnVariable": "{ success: true, data: { userId: \"as9233Qz\" } }",
+					"displayName": "End block",
+					"nodeIcon": "material-symbols:line-end-square-rounded"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 1080,
+				"y": 30
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-rfac-Node-49a20a5e-3121-4f13-b60d-a6fc7784d66b",
 			"position": {
 				"x": 880,
@@ -121,7 +162,7 @@
 				],
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 630,
@@ -350,6 +391,23 @@
 				"fillOpacity": 0.7
 			},
 			"sourceHandle": "Agama-when-Node-b79e62b0-323e-444a-8568-f38113e9b7d5.FAILURE"
+		},
+		{
+			"id": "Agama-rfac-Node-49a20a5e-3121-4f13-b60d-a6fc7784d66b-finish-8deb13a7-e9be-4bfe-b07d-591694f515f5-55a1f27c-4ce4-4226-a039-fd12badfa516",
+			"type": "straight",
+			"source": "Agama-rfac-Node-49a20a5e-3121-4f13-b60d-a6fc7784d66b",
+			"target": "finish-8deb13a7-e9be-4bfe-b07d-591694f515f5",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
 		}
 	],
 	"viewport": {
