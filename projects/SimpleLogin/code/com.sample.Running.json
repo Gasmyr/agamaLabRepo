@@ -32,13 +32,13 @@
 					"idpAuthEndpoint": "https://www.sample.com/sample.htm",
 					"assignCallbackResult": "rfacResult"
 				},
-				"skake": true
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 880,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
@@ -112,7 +112,8 @@
 					"conditionInputField": "is",
 					"valueField": "\"yde\"",
 					"comment": "where are in yde",
-					"hasComment": true
+					"hasComment": true,
+					"nodeIcon": "cif:cm"
 				},
 				"handles": [
 					"Agama-when-Node-b79e62b0-323e-444a-8568-f38113e9b7d5.FAILURE",
@@ -120,7 +121,7 @@
 				],
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 630,
@@ -352,8 +353,8 @@
 		}
 	],
 	"viewport": {
-		"x": 393.4090953841815,
-		"y": 130.16851154125607,
-		"zoom": 0.5140569133280335
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
