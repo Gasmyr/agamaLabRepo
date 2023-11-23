@@ -6,3 +6,5 @@ Flow com.sample.Running
      Inputs monday tuesday
 // commenting
 callResult | exception = Call Utils#getInstance dbConfig
+// comment assigments
+location = "Douala"
