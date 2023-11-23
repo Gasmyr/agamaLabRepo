@@ -14,3 +14,6 @@ When location is "yde"
      rffResult = RRF "otf.ftl" location
 // description
 rfacResult = RFAC https://www.sample.com/sample.htm
+// closing block
+it_mcqiu = { success: true, data: { userId: "as9233Qz" } }
+Finish it_mcqiu
