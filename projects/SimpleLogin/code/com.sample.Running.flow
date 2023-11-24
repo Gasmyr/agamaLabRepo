@@ -18,8 +18,9 @@ When location is "yde"
           Log "@info Running in repeat blog"
           // Quitting
           Quit When location is 15
+     callResultTwo | exceptionRaise = Call Utils#getInstance rffResult
 // description
 rfacResult = RFAC "https://www.sample.com/sample.htm"
 // closing block
-it_gwzfm = { success: true, data: { userId: "as9233Qz" } }
-Finish it_gwzfm
+it_uprxe = { success: true, data: { userId: "as9233Qz" } }
+Finish it_uprxe
