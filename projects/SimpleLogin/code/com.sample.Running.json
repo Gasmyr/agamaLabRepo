@@ -3,6 +3,53 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-call-Node-b0835a1a-7d90-4b9b-aff8-658fa904cfae",
+			"position": {
+				"x": 1255.2499166343864,
+				"y": 315.9453098948246
+			},
+			"type": "call",
+			"data": {
+				"id": "Agama-call-Node-b0835a1a-7d90-4b9b-aff8-658fa904cfae",
+				"type": "Agama-call-Node",
+				"parentId": "Agama-repeat-Node-81190763-5708-42bc-8937-99ac24bd5c43",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"position": {
+					"x": 1255.2499166343864,
+					"y": 315.9453098948246
+				},
+				"agamaData": {
+					"id": "Agama-call-Node-b0835a1a-7d90-4b9b-aff8-658fa904cfae",
+					"parentId": "Agama-repeat-Node-81190763-5708-42bc-8937-99ac24bd5c43",
+					"type": "Agama-call-Node",
+					"displayName": "Calling",
+					"hasComment": true,
+					"comment": "",
+					"javaClassName": "Utils",
+					"javaMethodName": "getInstance",
+					"javaVariableName": "",
+					"exceptionVariableField": "exceptionRaise",
+					"callType": "Call static method",
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"arguments": [
+						"rffResult"
+					],
+					"nodeIcon": "material-symbols:code",
+					"asssignedVariableName": "callResultTwo"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 1255.2499166343864,
+				"y": 315.9453098948246
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "quit-d2818c2d-f793-443c-8b5a-19e724a35dd3",
 			"position": {
 				"x": 1300.2499166343864,
@@ -33,7 +80,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1300.2499166343864,
@@ -588,6 +635,24 @@
 				"color": "#fff",
 				"fillOpacity": 0.7
 			}
+		},
+		{
+			"id": "Agama-repeat-Node-81190763-5708-42bc-8937-99ac24bd5c43-Agama-call-Node-b0835a1a-7d90-4b9b-aff8-658fa904cfae-9f3e7ebf-b470-48ad-830a-ca496c45136d",
+			"type": "straight",
+			"source": "Agama-repeat-Node-81190763-5708-42bc-8937-99ac24bd5c43",
+			"target": "Agama-call-Node-b0835a1a-7d90-4b9b-aff8-658fa904cfae",
+			"label": "Not In Block",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			},
+			"sourceHandle": "Agama-repeat-Node-81190763-5708-42bc-8937-99ac24bd5c43.InFlow"
 		}
 	],
 	"viewport": {
