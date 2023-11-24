@@ -3,52 +3,6 @@
 		{
 			"width": 170,
 			"height": 122,
-			"id": "Agama-trigger-Node-d18aed51-99ab-456f-b2b2-f31f35bf02bd",
-			"position": {
-				"x": 1005.2499166343864,
-				"y": 315.9453098948246
-			},
-			"type": "trigger",
-			"data": {
-				"id": "Agama-trigger-Node-d18aed51-99ab-456f-b2b2-f31f35bf02bd",
-				"type": "Agama-trigger-Node",
-				"parentId": "Agama-rrf-Node-6033deb3-1c80-427a-aa03-279a769597ef",
-				"whenCondition": "",
-				"inRepeatBlock": false,
-				"position": {
-					"x": 1005.2499166343864,
-					"y": 315.9453098948246
-				},
-				"agamaData": {
-					"id": "Agama-trigger-Node-d18aed51-99ab-456f-b2b2-f31f35bf02bd",
-					"parentId": "Agama-rrf-Node-6033deb3-1c80-427a-aa03-279a769597ef",
-					"type": "Agama-trigger-Node",
-					"displayName": "Trigerring",
-					"hasComment": true,
-					"comment": "triggering comment",
-					"whenCondition": "",
-					"inRepeatBlock": false,
-					"nodeIcon": "fluent-mdl2:trigger-approval",
-					"flowFileName": "com.gasmyr.login",
-					"arguments": [
-						"location",
-						"rffResult"
-					],
-					"asssignedVariableName": "myResultTrigger",
-					"exceptionVariableField": "exceptional"
-				},
-				"skake": false
-			},
-			"selected": false,
-			"dragging": false,
-			"positionAbsolute": {
-				"x": 1005.2499166343864,
-				"y": 315.9453098948246
-			}
-		},
-		{
-			"width": 170,
-			"height": 122,
 			"id": "finish-8deb13a7-e9be-4bfe-b07d-591694f515f5",
 			"position": {
 				"x": 1080,
@@ -120,13 +74,13 @@
 					"idpAuthEndpoint": "\"https://www.sample.com/sample.htm\"",
 					"assignCallbackResult": "rfacResult"
 				},
-				"skake": true
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 880,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
@@ -161,7 +115,11 @@
 					"nodeIcon": "ph:globe-simple",
 					"templatePath": "otf.ftl",
 					"asssignedVariableName": "rffResult",
-					"arguments": "location"
+					"arguments": "location",
+					"hasSuccess": "",
+					"hasFailure": "",
+					"hasNoRepeat": false,
+					"hasRepeat": false
 				},
 				"skake": false
 			},
@@ -455,28 +413,11 @@
 				"color": "#fff",
 				"fillOpacity": 0.7
 			}
-		},
-		{
-			"id": "Agama-rrf-Node-6033deb3-1c80-427a-aa03-279a769597ef-Agama-trigger-Node-d18aed51-99ab-456f-b2b2-f31f35bf02bd-beffefbf-1425-4a06-b525-cf1540131afc",
-			"type": "straight",
-			"source": "Agama-rrf-Node-6033deb3-1c80-427a-aa03-279a769597ef",
-			"target": "Agama-trigger-Node-d18aed51-99ab-456f-b2b2-f31f35bf02bd",
-			"label": "",
-			"labelBgPadding": [
-				8,
-				4
-			],
-			"labelBgBorderRadius": 4,
-			"labelBgStyle": {
-				"fill": "#FFCC00",
-				"color": "#fff",
-				"fillOpacity": 0.7
-			}
 		}
 	],
 	"viewport": {
-		"x": -433.3516128598869,
-		"y": 124.29447026799548,
-		"zoom": 0.6973718331752029
+		"x": -465,
+		"y": 29,
+		"zoom": 1
 	}
 }
