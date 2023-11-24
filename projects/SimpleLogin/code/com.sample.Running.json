@@ -36,9 +36,10 @@
 					],
 					"asssignedVariableName": "myResultTrigger",
 					"exceptionVariableField": "exceptional"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1005.2499166343864,
@@ -116,16 +117,16 @@
 					"whenCondition": "WhenFalse",
 					"inRepeatBlock": false,
 					"nodeIcon": "ic:baseline-insert-link",
-					"idpAuthEndpoint": "https://www.sample.com/sample.htm",
+					"idpAuthEndpoint": "\"https://www.sample.com/sample.htm\"",
 					"assignCallbackResult": "rfacResult"
 				},
-				"skake": false
+				"skake": true
 			},
 			"positionAbsolute": {
 				"x": 880,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false
 		},
 		{
