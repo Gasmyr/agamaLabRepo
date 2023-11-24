@@ -26,8 +26,12 @@
 					"displayName": "QUIT",
 					"hasComment": true,
 					"comment": "Quitting",
-					"nodeIcon": "material-symbols:pip-exit-outline-rounded"
-				}
+					"nodeIcon": "material-symbols:pip-exit-outline-rounded",
+					"variableField": "location",
+					"conditionInputField": "is",
+					"valueField": "15"
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -67,7 +71,8 @@
 					"logMessage": "\"Running in repeat blog\"",
 					"logLevel": "info",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -108,7 +113,8 @@
 					"nodeIcon": "material-symbols:event-repeat-outline-rounded",
 					"maxIteration": "6",
 					"maxIterationVariableName": "maxCount"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -585,8 +591,8 @@
 		}
 	],
 	"viewport": {
-		"x": -463,
-		"y": 28,
+		"x": 10,
+		"y": 15,
 		"zoom": 1
 	}
 }
