@@ -12,10 +12,8 @@ location = "Douala"
 When location is "yde"
      // rff comment
      rffResult = RRF "otf.ftl" location
-     // triggering comment
-     myResultTrigger | exceptional = Trigger com.gasmyr.login location rffResult
 // description
 rfacResult = RFAC "https://www.sample.com/sample.htm"
 // closing block
-it_tugbc = { success: true, data: { userId: "as9233Qz" } }
-Finish it_tugbc
+it_ckvbi = { success: true, data: { userId: "as9233Qz" } }
+Finish it_ckvbi
