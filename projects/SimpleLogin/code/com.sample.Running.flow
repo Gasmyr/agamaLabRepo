@@ -17,9 +17,9 @@ When location is "yde"
           // ddddddddddddddddddddddddddddd
           Log "@info Running in repeat blog"
           // Quitting
-          Quit When __________ __________ __________
+          Quit When location is 15
 // description
 rfacResult = RFAC "https://www.sample.com/sample.htm"
 // closing block
-it_kkhgu = { success: true, data: { userId: "as9233Qz" } }
-Finish it_kkhgu
+it_gwzfm = { success: true, data: { userId: "as9233Qz" } }
+Finish it_gwzfm
