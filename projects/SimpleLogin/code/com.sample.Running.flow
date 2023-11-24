@@ -15,7 +15,7 @@ When location is "yde"
      // triggering comment
      myResultTrigger | exceptional = Trigger com.gasmyr.login location rffResult
 // description
-rfacResult = RFAC https://www.sample.com/sample.htm
+rfacResult = RFAC "https://www.sample.com/sample.htm"
 // closing block
-it_lijpo = { success: true, data: { userId: "as9233Qz" } }
-Finish it_lijpo
+it_tugbc = { success: true, data: { userId: "as9233Qz" } }
+Finish it_tugbc
