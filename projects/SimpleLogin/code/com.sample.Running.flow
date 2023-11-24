@@ -12,8 +12,14 @@ location = "Douala"
 When location is "yde"
      // rff comment
      rffResult = RRF "otf.ftl" location
+     // repeating
+     Repeat 6 times max
+          // ddddddddddddddddddddddddddddd
+          Log "@info Running in repeat blog"
+          // Quitting
+          Quit When __________ __________ __________
 // description
 rfacResult = RFAC "https://www.sample.com/sample.htm"
 // closing block
-it_ckvbi = { success: true, data: { userId: "as9233Qz" } }
-Finish it_ckvbi
+it_kkhgu = { success: true, data: { userId: "as9233Qz" } }
+Finish it_kkhgu
