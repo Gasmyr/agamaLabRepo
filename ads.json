@@ -1,1 +1,19 @@
-{}
+{
+    "FidoProject": {
+        "projectName": "FidoProject",
+        "description": "Fido Authn project",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
+        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
+        "license": "apache-2.0",
+        "lastUpdated": "1701609275828",
+        "tags": [
+            "openid-connect",
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
