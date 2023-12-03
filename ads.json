@@ -14,9 +14,7 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "com.sample.Running": {}
-        },
+        "configs": {},
         "name": "SimpleLogin"
     }
 }
