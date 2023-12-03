@@ -15,7 +15,10 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "com.kudia.fido": {}
+            "com.kudia.fido": {
+                "one": "11",
+                "two": "22"
+            }
         },
         "name": "FidoProject"
     }
