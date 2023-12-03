@@ -1,2 +1,22 @@
+// Start the flow
 Flow com.kudia.fido
      Basepath ""
+     Timeout 100 seconds
+     Configs configs
+     Inputs userName passWord
+// Assignements block
+weddingDate = "01-12-2023"
+location = "Jet Hotel"
+time = "3PM"
+// check wedding date
+When weddingDate is 01-12-2023
+     // wedding description
+     Log "@info start logging wedding event"
+     // RFAC
+     rfacCallResult = RFAC "https://www.kudia.com/check.html"
+     it_grwrn = { success: true, data: { userId: "as9233Qz" } }
+     Finish it_grwrn
+// Call Block
+callResult | callException = Call Wedding#missing weddingDate
+// rff block comment
+rffResult = RRF "otp.ftl" time
