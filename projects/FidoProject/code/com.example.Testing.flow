@@ -1,2 +1,3 @@
 Flow com.example.Testing
      Basepath ""
+Log "@info statement"
