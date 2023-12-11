@@ -18,7 +18,8 @@
             "com.kudia.fido": {
                 "one": "11",
                 "two": "22"
-            }
+            },
+            "com.example.Testing": {}
         },
         "name": "FidoProject"
     }
