@@ -29,12 +29,12 @@
 					"hasComment": true,
 					"comment": "",
 					"flowfilename": "",
-					"returnVariable": "{ userId: \"as9233Qz\", property1: \"value1\", }",
+					"returnVariable": "{ userId: \"as9233Qz\", property1: \"value1\"}",
 					"finishMode": "withSuccess",
 					"nodeIcon": "material-symbols:line-end-square-rounded",
 					"displayName": "Close flow"
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
