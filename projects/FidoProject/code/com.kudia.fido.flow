@@ -14,8 +14,8 @@ When weddingDate is 10
      Log "@info start logging wedding event"
      // RFAC
      rfacCallResult = RFAC "https://www.kudia.com/check.html"
-     it_vwoxz = {sucess:false, error: "Your error message here"}
-     Finish it_vwoxz
+     it_jhjrh = {sucess:true, data: { userId: "as9233Qz", property1: "value1", }}
+     Finish it_jhjrh
 // Call Block
 callResult | callException = Call Wedding#missing weddingDate
 // rff block comment
