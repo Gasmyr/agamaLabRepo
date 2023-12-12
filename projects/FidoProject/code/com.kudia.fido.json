@@ -29,14 +29,14 @@
 					"hasComment": true,
 					"comment": "",
 					"flowfilename": "",
-					"returnVariable": "{ success: true, data: { userId: \"as9233Qz\" } }",
-					"finishMode": "withSuccess",
+					"returnVariable": "Your error message here",
+					"finishMode": "withFailure",
 					"nodeIcon": "material-symbols:line-end-square-rounded",
 					"displayName": "Close flow"
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 943,
@@ -256,9 +256,9 @@
 					"Agama-when-Node-1a26836e-e076-4d16-9f72-4055395b2b95.FAILURE",
 					"Agama-when-Node-1a26836e-e076-4d16-9f72-4055395b2b95.SUCCESS"
 				],
-				"skake": true
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
@@ -488,8 +488,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
-		"zoom": 1
+		"x": 129.70996365187705,
+		"y": 95.80030654728972,
+		"zoom": 0.8235910172675737
 	}
 }
