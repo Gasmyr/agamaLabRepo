@@ -29,12 +29,12 @@
 					"hasComment": true,
 					"comment": "",
 					"flowfilename": "",
-					"returnVariable": "Your error message here",
-					"finishMode": "withFailure",
+					"returnVariable": "{ userId: \"as9233Qz\", property1: \"value1\", }",
+					"finishMode": "withSuccess",
 					"nodeIcon": "material-symbols:line-end-square-rounded",
 					"displayName": "Close flow"
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -488,8 +488,8 @@
 		}
 	],
 	"viewport": {
-		"x": 129.70996365187705,
-		"y": 95.80030654728972,
-		"zoom": 0.8235910172675737
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
