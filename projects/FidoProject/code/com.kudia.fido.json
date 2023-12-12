@@ -34,7 +34,7 @@
 					"nodeIcon": "material-symbols:line-end-square-rounded",
 					"displayName": "Close flow"
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
