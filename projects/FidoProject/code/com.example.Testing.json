@@ -343,7 +343,7 @@
 						},
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "\"Douala\"",
+							"assignmentExpression": "Douala",
 							"assignedVariableName": "location"
 						}
 					],
