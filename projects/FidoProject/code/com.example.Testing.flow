@@ -2,7 +2,7 @@ Flow com.example.Testing
      Basepath ""
 Log "@info statement"
 // Assignments
-totalCount = ""10""
+totalCount = "10"
 location = ""Douala""
 // description
 Repeat 3 times max
