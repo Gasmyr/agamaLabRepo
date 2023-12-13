@@ -1,5 +1,4 @@
-// Lorem Ipsum is simply dummy 
-text of the printing and typesetting industry. 
+// First Line of CommentSecond Line of CommentThird Line of Comment
 Flow com.kudia.fido
      Basepath ""
      Timeout 100 seconds
@@ -15,8 +14,8 @@ When weddingDate is 10
      Log "@info start logging wedding event"
      // RFAC
      rfacCallResult = RFAC "https://www.kudia.com/check.html"
-     it_lyugs = { userId: "as9233Qz", property1: "value1"}
-     Finish it_lyugs
+     it_vgobw = { userId: "as9233Qz", property1: "value1"}
+     Finish it_vgobw
 // Call Block
 callResult | callException = Call Wedding#missing weddingDate
 // rff block comment
