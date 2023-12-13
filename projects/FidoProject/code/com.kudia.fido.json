@@ -3,127 +3,6 @@
 		{
 			"width": 170,
 			"height": 122,
-			"id": "Agama-log-Node-f553198a-cd1f-4f38-851f-35d4a5c91a06",
-			"position": {
-				"x": 1175,
-				"y": 260
-			},
-			"type": "log",
-			"data": {
-				"id": "Agama-log-Node-f553198a-cd1f-4f38-851f-35d4a5c91a06",
-				"type": "Agama-log-Node",
-				"parentId": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
-				"whenCondition": "",
-				"inRepeatBlock": true,
-				"position": {
-					"x": 1175,
-					"y": 260
-				},
-				"agamaData": {
-					"id": "Agama-log-Node-f553198a-cd1f-4f38-851f-35d4a5c91a06",
-					"parentId": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
-					"type": "Agama-log-Node",
-					"displayName": "In log",
-					"hasComment": true,
-					"comment": "In log",
-					"whenCondition": "",
-					"inRepeatBlock": true,
-					"logMessage": "\"In log\"",
-					"logLevel": "trace",
-					"nodeIcon": "octicon:log-16"
-				}
-			},
-			"selected": true,
-			"dragging": false,
-			"positionAbsolute": {
-				"x": 1175,
-				"y": 260
-			}
-		},
-		{
-			"width": 170,
-			"height": 122,
-			"id": "Agama-log-Node-b34187d0-207e-41e1-ab88-8b313663d84e",
-			"position": {
-				"x": 1330,
-				"y": 30
-			},
-			"type": "log",
-			"data": {
-				"id": "Agama-log-Node-b34187d0-207e-41e1-ab88-8b313663d84e",
-				"type": "Agama-log-Node",
-				"parentId": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
-				"whenCondition": "",
-				"inRepeatBlock": false,
-				"position": {
-					"x": 1330,
-					"y": 30
-				},
-				"agamaData": {
-					"id": "Agama-log-Node-b34187d0-207e-41e1-ab88-8b313663d84e",
-					"parentId": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
-					"type": "Agama-log-Node",
-					"displayName": "Not in log",
-					"hasComment": true,
-					"comment": "Not in log",
-					"whenCondition": "",
-					"inRepeatBlock": false,
-					"logMessage": "\"Not in log\"",
-					"logLevel": "error",
-					"nodeIcon": "octicon:log-16"
-				}
-			},
-			"selected": false,
-			"dragging": false,
-			"positionAbsolute": {
-				"x": 1330,
-				"y": 30
-			}
-		},
-		{
-			"width": 170,
-			"height": 122,
-			"id": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
-			"position": {
-				"x": 1080,
-				"y": 30
-			},
-			"type": "repeat",
-			"data": {
-				"id": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
-				"type": "Agama-repeat-Node",
-				"parentId": "Agama-rrf-Node-22d55314-1eb3-4081-b345-15ead0395a24",
-				"whenCondition": "",
-				"inRepeatBlock": false,
-				"handles": [],
-				"position": {
-					"x": 1080,
-					"y": 30
-				},
-				"agamaData": {
-					"id": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
-					"parentId": "Agama-rrf-Node-22d55314-1eb3-4081-b345-15ead0395a24",
-					"type": "Agama-repeat-Node",
-					"displayName": "Repeat",
-					"hasComment": true,
-					"comment": "repeat",
-					"whenCondition": "",
-					"inRepeatBlock": false,
-					"nodeIcon": "material-symbols:event-repeat-outline-rounded",
-					"maxIteration": "10",
-					"maxIterationVariableName": "count"
-				}
-			},
-			"selected": false,
-			"dragging": false,
-			"positionAbsolute": {
-				"x": 1080,
-				"y": 30
-			}
-		},
-		{
-			"width": 170,
-			"height": 122,
 			"id": "finish-be98a2e2-f6db-4936-b875-c32b786647d9",
 			"position": {
 				"x": 943,
@@ -196,7 +75,11 @@
 					"nodeIcon": "ph:globe-simple",
 					"templatePath": "otp.ftl",
 					"asssignedVariableName": "rffResult",
-					"arguments": "time"
+					"arguments": "time",
+					"hasSuccess": "",
+					"hasFailure": "",
+					"hasNoRepeat": false,
+					"hasRepeat": false
 				},
 				"skake": false
 			},
@@ -608,23 +491,6 @@
 			}
 		},
 		{
-			"id": "Agama-rrf-Node-22d55314-1eb3-4081-b345-15ead0395a24-Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4-8c177f6b-291e-4da1-b51b-e070c3905d90",
-			"type": "straight",
-			"source": "Agama-rrf-Node-22d55314-1eb3-4081-b345-15ead0395a24",
-			"target": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
-			"label": "",
-			"labelBgPadding": [
-				8,
-				4
-			],
-			"labelBgBorderRadius": 4,
-			"labelBgStyle": {
-				"fill": "#FFCC00",
-				"color": "#fff",
-				"fillOpacity": 0.7
-			}
-		},
-		{
 			"id": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4-Agama-log-Node-b34187d0-207e-41e1-ab88-8b313663d84e-53697ab7-8b54-43d0-a820-63a1b5a420c4",
 			"type": "straight",
 			"source": "Agama-repeat-Node-b28c6bd2-e182-44d0-afa8-22c2c89ec3b4",
@@ -662,8 +528,8 @@
 		}
 	],
 	"viewport": {
-		"x": -378,
-		"y": 68,
+		"x": -393,
+		"y": 56,
 		"zoom": 1
 	}
 }
