@@ -159,7 +159,7 @@
 				],
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 680,
@@ -338,7 +338,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "\"10\"",
+							"assignmentExpression": "10",
 							"assignedVariableName": "totalCount"
 						},
 						{
@@ -348,9 +348,10 @@
 						}
 					],
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 430,
@@ -390,7 +391,7 @@
 					"maxIteration": "3",
 					"maxIterationVariableName": "count"
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
