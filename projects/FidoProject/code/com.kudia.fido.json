@@ -340,7 +340,7 @@
 					"type": "Agama-start-Flow",
 					"displayName": "FIDO",
 					"hasComment": true,
-					"comment": "Lorem Ipsum is simply dummy \ntext of the printing and typesetting industry. ",
+					"comment": "First Line of Comment\nSecond Line of Comment\nThird Line of Comment",
 					"isTopLevelFlow": true,
 					"basepath": "",
 					"configParams": "{\n  \"one\":\"11\",\n  \"two\":\"22\"\n}",
@@ -488,8 +488,8 @@
 		}
 	],
 	"viewport": {
-		"x": 495.7850683455408,
-		"y": 194.71913585033573,
-		"zoom": 0.5
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
