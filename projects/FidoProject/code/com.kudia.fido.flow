@@ -16,19 +16,11 @@ When weddingDate is 10
      Log "@info start logging wedding event"
      // RFAC
      rfacCallResult = RFAC "https://www.kudia.com/check.html"
-     it_kmsoc = { userId: "as9233Qz", property1: "value1"}
-     Finish it_kmsoc
+     it_pvbhl = { userId: "as9233Qz", property1: "value1"}
+     Finish it_pvbhl
 // Call Block
 callResult | callException = Call Wedding#missing weddingDate
 // rff block comment
 rffResult = RRF "otp.ftl" time
 // Description
 Repeat 15 times max
-     // Wedding
-     When weddingDate is "Friday"
-          // Cool
-          Log "@info Cool"
-     // oops
-     Log "@info oops"
-// Next Steps
-Log "@info Next Steps"
