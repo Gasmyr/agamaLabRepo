@@ -340,7 +340,7 @@
 					"type": "Agama-start-Flow",
 					"displayName": "FIDO",
 					"hasComment": true,
-					"comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+					"comment": "Lorem Ipsum is simply dummy \ntext of the printing and typesetting industry. ",
 					"isTopLevelFlow": true,
 					"basepath": "",
 					"configParams": "{\n  \"one\":\"11\",\n  \"two\":\"22\"\n}",
@@ -488,8 +488,8 @@
 		}
 	],
 	"viewport": {
-		"x": 50.989331108332465,
-		"y": 46.11736550456055,
-		"zoom": 0.8467453123625271
+		"x": 495.7850683455408,
+		"y": 194.71913585033573,
+		"zoom": 0.5
 	}
 }
