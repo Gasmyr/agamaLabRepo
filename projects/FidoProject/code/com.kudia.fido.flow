@@ -1,4 +1,4 @@
-// Start the flow
+// Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 Flow com.kudia.fido
      Basepath ""
      Timeout 100 seconds
@@ -14,8 +14,8 @@ When weddingDate is 10
      Log "@info start logging wedding event"
      // RFAC
      rfacCallResult = RFAC "https://www.kudia.com/check.html"
-     it_uctoz = {sucess:true, data: { userId: "as9233Qz", property1: "value1"}}
-     Finish it_uctoz
+     it_lyffc = { userId: "as9233Qz", property1: "value1"}
+     Finish it_lyffc
 // Call Block
 callResult | callException = Call Wedding#missing weddingDate
 // rff block comment
