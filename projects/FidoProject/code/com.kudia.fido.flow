@@ -1,4 +1,6 @@
-// First Line of CommentSecond Line of CommentThird Line of Comment
+// First Line of Comment
+Second Line of Comment
+Third Line of Comment
 Flow com.kudia.fido
      Basepath ""
      Timeout 100 seconds
@@ -14,9 +16,15 @@ When weddingDate is 10
      Log "@info start logging wedding event"
      // RFAC
      rfacCallResult = RFAC "https://www.kudia.com/check.html"
-     it_vgobw = { userId: "as9233Qz", property1: "value1"}
-     Finish it_vgobw
+     it_pezcz = {success:true, data: { userId: "as9233Qz", property1: "value1"}}
+     Finish it_pezcz
 // Call Block
 callResult | callException = Call Wedding#missing weddingDate
 // rff block comment
 rffResult = RRF "otp.ftl" time
+// repeat
+Repeat 10 times max
+     // In log
+     Log "@trace In log"
+// Not in log
+Log "@error Not in log"
