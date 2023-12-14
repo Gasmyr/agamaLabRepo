@@ -1,36 +1,52 @@
-[
-  {
-    "id": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 30,
-        "y": 30
-      },
-      "inRepeatBlock": false,
-      "agamaData": {
-        "id": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
-        "type": "Agama-start-Flow",
-        "displayName": "SCIM",
-        "hasComment": true,
-        "comment": "",
-        "isTopLevelFlow": true,
-        "basepath": "",
-        "configParams": "{}",
-        "nodeIcon": "material-symbols:line-start-square",
-        "timeout": "",
-        "inputs": "",
-        "configs": "",
-        "flowname": "com.codima.scim"
-      },
-      "skake": false
-    },
-    "position": {
-      "x": 30,
-      "y": 30
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 30,
+					"y": 30
+				},
+				"inRepeatBlock": false,
+				"agamaData": {
+					"id": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
+					"type": "Agama-start-Flow",
+					"displayName": "SCIM",
+					"hasComment": true,
+					"comment": "description",
+					"isTopLevelFlow": true,
+					"basepath": "",
+					"configParams": "{}",
+					"nodeIcon": "material-symbols:line-start-square",
+					"timeout": "1000",
+					"inputs": "",
+					"configs": "",
+					"flowname": "com.codima.scim"
+				},
+				"skake": false
+			},
+			"position": {
+				"x": 30,
+				"y": 30
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 30,
+				"y": 30
+			}
+		}
+	],
+	"edges": [],
+	"viewport": {
+		"x": 10,
+		"y": 15,
+		"zoom": 1
+	}
+}
