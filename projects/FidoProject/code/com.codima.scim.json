@@ -3,6 +3,46 @@
 		{
 			"width": 170,
 			"height": 122,
+			"id": "Agama-log-Node-c98c8148-a207-4e9d-92be-27f4687d4426",
+			"position": {
+				"x": 230,
+				"y": 30
+			},
+			"type": "log",
+			"data": {
+				"id": "Agama-log-Node-c98c8148-a207-4e9d-92be-27f4687d4426",
+				"type": "Agama-log-Node",
+				"parentId": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"position": {
+					"x": 230,
+					"y": 30
+				},
+				"agamaData": {
+					"id": "Agama-log-Node-c98c8148-a207-4e9d-92be-27f4687d4426",
+					"parentId": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
+					"type": "Agama-log-Node",
+					"displayName": "Runing log",
+					"hasComment": true,
+					"comment": "Runing log",
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"logMessage": "\"Runing log\"",
+					"logLevel": "info",
+					"nodeIcon": "octicon:log-16"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 230,
+				"y": 30
+			}
+		},
+		{
+			"width": 170,
+			"height": 122,
 			"id": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
 			"type": "start",
 			"sourcePosition": "right",
@@ -29,13 +69,13 @@
 					"configs": "",
 					"flowname": "com.codima.scim"
 				},
-				"skake": false
+				"skake": true
 			},
 			"position": {
 				"x": 30,
 				"y": 30
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -43,7 +83,25 @@
 			}
 		}
 	],
-	"edges": [],
+	"edges": [
+		{
+			"id": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182-Agama-log-Node-c98c8148-a207-4e9d-92be-27f4687d4426-ee3e5582-6577-440e-ab07-b665b7366e64",
+			"type": "straight",
+			"source": "Agama-start-Flow-92a94e12-98bc-402f-9ba4-3936d5f98182",
+			"target": "Agama-log-Node-c98c8148-a207-4e9d-92be-27f4687d4426",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		}
+	],
 	"viewport": {
 		"x": 10,
 		"y": 15,
