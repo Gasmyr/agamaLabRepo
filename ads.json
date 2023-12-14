@@ -1,7 +1,7 @@
 {
     "FidoProject": {
         "projectName": "FidoProject",
-        "description": "<script>alert(\"oops\");</script>",
+        "description": "\ud83d\udc8bimg src=x onerror=alert(document.domain)//\ud83d\udc9b",
         "type": "community",
         "author": "Gasmyr",
         "version": "0.0.1",
