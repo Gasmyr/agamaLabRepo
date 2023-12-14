@@ -1,7 +1,7 @@
 {
     "FidoProject": {
         "projectName": "FidoProject",
-        "description": "<b>Fido Authn project</b>",
+        "description": "<script>alert(\"oops\");</script>",
         "type": "community",
         "author": "Gasmyr",
         "version": "0.0.1",
