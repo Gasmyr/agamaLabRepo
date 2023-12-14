@@ -19,7 +19,8 @@
                 "one": "11",
                 "two": "22"
             },
-            "com.example.Testing": {}
+            "com.example.Testing": {},
+            "com.codima.scim": {}
         },
         "name": "FidoProject"
     }
