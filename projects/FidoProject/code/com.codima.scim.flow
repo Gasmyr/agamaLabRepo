@@ -2,3 +2,5 @@
 Flow com.codima.scim
      Basepath ""
      Timeout 1000 seconds
+// Runing log
+Log "@info Runing log"
