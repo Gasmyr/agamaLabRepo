@@ -19,8 +19,7 @@
                 "one": "11",
                 "two": "22"
             },
-            "com.example.Testing": {},
-            "com.kudia.oauth": {}
+            "com.example.Testing": {}
         },
         "name": "FidoProject"
     }
