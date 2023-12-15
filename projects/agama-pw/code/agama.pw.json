@@ -1,0 +1,35 @@
+[
+  {
+    "id": "Agama-start-Flow-47a8152c-5c0e-46fd-8172-6ae5eb1e66fa",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-47a8152c-5c0e-46fd-8172-6ae5eb1e66fa",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "inRepeatBlock": false,
+      "agamaData": {
+        "id": "Agama-start-Flow-47a8152c-5c0e-46fd-8172-6ae5eb1e66fa",
+        "type": "Agama-start-Flow",
+        "displayName": "Agama Password",
+        "hasComment": true,
+        "comment": "",
+        "isTopLevelFlow": true,
+        "basepath": "",
+        "configParams": "{}",
+        "nodeIcon": "material-symbols:line-start-square",
+        "timeout": "",
+        "inputs": "",
+        "configs": "",
+        "flowname": "agama.pw"
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
