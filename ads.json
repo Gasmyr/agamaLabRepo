@@ -39,5 +39,21 @@
         ],
         "noDirectLaunch": [],
         "configs": {}
+    },
+    "agama-pw": {
+        "projectName": "agama-pw",
+        "description": "description",
+        "type": "community",
+        "author": "Gasmyr",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Gasmyr/agamaLabRepo",
+        "githubUri": "https://github.com/Gasmyr/agamaLabRepo",
+        "license": "apache-2.0",
+        "lastUpdated": "1702633960496",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
