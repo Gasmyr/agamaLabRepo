@@ -1,2 +1,15 @@
 Flow agama.pw
      Basepath ""
+authService = Call io.jans.as.server.service.AuthenticationService#class 
+cdiUtil = Call io.jans.service.cdi.util.CdiUtil#bean authService
+authResult = {}
+Repeat 3 times max
+     creds = RRF "login.ftlh" authResult
+     authResult.success = Call cdiUtil authenticate creds.username creds.password
+     authResult.uid = creds.username
+     // check auth response
+     When authResult.success is true
+          it_uablr = { success: true, data: { userId: authResult.uid } }
+          Finish it_uablr
+it_xhbls = { success: false, error: "auth failed" }
+Finish it_xhbls
