@@ -9,7 +9,7 @@ Repeat 3 times max
      authResult.uid = creds.username
      // check auth response
      When authResult.success is true
-          it_uablr = { success: true, data: { userId: authResult.uid } }
-          Finish it_uablr
-it_xhbls = { success: false, error: "auth failed" }
-Finish it_xhbls
+          it_dpodr = { success: true, data: { userId: authResult.uid } }
+          Finish it_dpodr
+it_qneze = { success: false, error: "auth failed" }
+Finish it_qneze
